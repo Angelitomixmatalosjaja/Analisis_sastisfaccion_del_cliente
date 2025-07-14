@@ -1,0 +1,1501 @@
+estudiante_id,pais_destino,idioma_estudiado,edad,duracion_semanas,alojamiento,satisfaccion,quejas_reportadas,recomendaria_EF
+1,Australia,Italiano,43,15,Residencia estudiantil,2,1,0
+2,Malta,Italiano,43,9,Residencia estudiantil,3,2,0
+3,Estados Unidos,Francés,34,14,Familia anfitriona,5,0,1
+4,Malta,Italiano,32,18,Hotel,4,0,1
+5,Malta,Alemán,29,17,Familia anfitriona,4,0,1
+6,Canada,Italiano,34,18,Apartamento compartido,4,0,1
+7,Estados Unidos,Inglés,37,5,Hostal,5,2,1
+8,Estados Unidos,Italiano,39,20,Hostal,3,2,0
+9,Estados Unidos,Francés,28,20,Residencia estudiantil,5,2,1
+10,Malta,Inglés,27,9,Hostal,2,3,0
+11,Australia,Francés,41,11,Hostal,5,1,1
+12,Estados Unidos,Francés,21,24,Hostal,5,0,1
+13,Malta,Inglés,36,22,Apartamento compartido,3,2,0
+14,Canada,Francés,19,1,Hostal,4,0,1
+15,Australia,Francés,34,18,Hostal,3,1,0
+16,Canada,Italiano,31,6,Hostal,4,1,1
+17,Australia,Alemán,28,2,Familia anfitriona,4,1,1
+18,Malta,Francés,19,15,Apartamento compartido,4,2,1
+19,Reino Unido,Francés,38,21,Residencia estudiantil,3,0,0
+20,Australia,Francés,32,14,Familia anfitriona,3,3,0
+21,Canada,Italiano,38,5,Hotel,1,4,0
+22,Malta,Alemán,16,6,Apartamento compartido,3,1,0
+23,Australia,Inglés,33,6,Apartamento compartido,4,0,1
+24,Reino Unido,Italiano,35,22,Hotel,5,0,1
+25,Reino Unido,Italiano,32,18,Hotel,4,0,1
+26,Estados Unidos,Alemán,42,14,Hotel,4,0,1
+27,Estados Unidos,Alemán,43,10,Residencia estudiantil,5,0,1
+28,Canada,Italiano,42,14,Hostal,4,0,1
+29,Australia,Inglés,30,13,Apartamento compartido,5,0,1
+30,Australia,Italiano,26,3,Hostal,4,0,1
+31,Estados Unidos,Alemán,40,6,Hostal,3,3,0
+32,Australia,Inglés,43,8,Hotel,2,3,0
+33,Australia,Alemán,37,12,Residencia estudiantil,4,0,1
+34,Reino Unido,Inglés,28,13,Familia anfitriona,2,2,0
+35,Estados Unidos,Francés,16,11,Residencia estudiantil,3,3,0
+36,Malta,Alemán,32,12,Hostal,4,0,1
+37,Estados Unidos,Alemán,21,1,Residencia estudiantil,4,0,1
+38,Malta,Italiano,19,17,Hotel,4,0,1
+39,Reino Unido,Alemán,35,16,Familia anfitriona,3,1,0
+40,Canada,Alemán,31,11,Hotel,4,2,1
+41,Australia,Francés,30,13,Familia anfitriona,4,0,1
+42,Reino Unido,Alemán,42,18,Hostal,5,0,1
+43,Australia,Francés,30,11,Familia anfitriona,4,3,1
+44,Canada,Francés,21,12,Familia anfitriona,5,1,1
+45,Canada,Francés,30,6,Familia anfitriona,5,0,1
+46,Reino Unido,Francés,29,9,Residencia estudiantil,4,0,1
+47,Canada,Inglés,43,16,Residencia estudiantil,3,2,0
+48,Malta,Italiano,26,4,Hostal,4,0,1
+49,Canada,Inglés,22,3,Familia anfitriona,4,0,1
+50,Australia,Alemán,24,16,Apartamento compartido,4,2,1
+51,Australia,Inglés,41,24,Hostal,4,0,1
+52,Australia,Inglés,31,12,Familia anfitriona,4,0,1
+53,Australia,Alemán,20,11,Familia anfitriona,3,4,0
+54,Malta,Alemán,40,5,Residencia estudiantil,4,1,1
+55,Estados Unidos,Alemán,35,18,Hostal,3,1,0
+56,Reino Unido,Inglés,44,19,Familia anfitriona,5,0,1
+57,Australia,Inglés,25,23,Familia anfitriona,3,4,0
+58,Canada,Alemán,33,23,Hostal,2,0,0
+59,Australia,Italiano,18,6,Apartamento compartido,4,0,1
+60,Canada,Italiano,28,22,Hostal,4,1,1
+61,Canada,Francés,26,18,Hostal,4,0,1
+62,Australia,Alemán,32,6,Apartamento compartido,3,2,0
+63,Malta,Francés,37,4,Hostal,4,0,1
+64,Canada,Italiano,28,12,Familia anfitriona,3,3,0
+65,Canada,Francés,21,19,Hostal,5,1,1
+66,Australia,Alemán,32,2,Apartamento compartido,5,0,1
+67,Canada,Alemán,42,17,Hotel,4,1,1
+68,Canada,Alemán,28,11,Hostal,3,2,0
+69,Australia,Inglés,34,11,Residencia estudiantil,4,1,1
+70,Australia,Francés,36,21,Familia anfitriona,1,2,0
+71,Reino Unido,Italiano,34,16,Familia anfitriona,4,0,1
+72,Malta,Italiano,25,2,Residencia estudiantil,3,4,0
+73,Malta,Italiano,18,2,Residencia estudiantil,5,0,1
+74,Canada,Inglés,29,23,Hostal,1,4,0
+75,Malta,Inglés,41,8,Residencia estudiantil,4,1,1
+76,Canada,Alemán,34,13,Hotel,4,0,1
+77,Reino Unido,Italiano,20,10,Apartamento compartido,4,0,1
+78,Australia,Inglés,44,8,Residencia estudiantil,2,2,0
+79,Australia,Alemán,20,4,Residencia estudiantil,5,0,1
+80,Australia,Italiano,35,15,Hotel,4,0,1
+81,Malta,Francés,32,1,Familia anfitriona,4,0,1
+82,Reino Unido,Alemán,36,11,Familia anfitriona,3,4,0
+83,Malta,Inglés,25,7,Hostal,4,0,1
+84,Malta,Inglés,20,17,Hotel,4,1,1
+85,Reino Unido,Alemán,19,20,Apartamento compartido,2,1,0
+86,Reino Unido,Alemán,21,24,Apartamento compartido,2,2,0
+87,Reino Unido,Inglés,41,18,Hotel,5,0,1
+88,Reino Unido,Francés,19,22,Apartamento compartido,3,3,0
+89,Australia,Italiano,22,22,Familia anfitriona,3,2,0
+90,Estados Unidos,Francés,22,12,Apartamento compartido,4,1,1
+91,Estados Unidos,Alemán,33,9,Apartamento compartido,5,1,1
+92,Reino Unido,Francés,18,5,Hotel,2,2,0
+93,Estados Unidos,Inglés,16,10,Hotel,4,0,1
+94,Estados Unidos,Alemán,39,4,Apartamento compartido,2,4,0
+95,Reino Unido,Italiano,40,5,Residencia estudiantil,1,4,0
+96,Estados Unidos,Inglés,19,10,Hotel,2,3,0
+97,Malta,Inglés,21,11,Hostal,5,0,1
+98,Canada,Italiano,24,21,Hostal,2,5,0
+99,Canada,Italiano,37,24,Familia anfitriona,1,4,0
+100,Reino Unido,Francés,29,10,Apartamento compartido,4,0,1
+101,Australia,Alemán,43,8,Residencia estudiantil,5,0,1
+102,Reino Unido,Italiano,27,2,Familia anfitriona,3,1,0
+103,Australia,Italiano,43,23,Apartamento compartido,4,1,1
+104,Canada,Alemán,40,8,Hotel,1,3,0
+105,Reino Unido,Italiano,35,16,Hostal,4,0,1
+106,Malta,Italiano,39,22,Residencia estudiantil,4,0,1
+107,Estados Unidos,Francés,40,5,Hostal,4,2,1
+108,Australia,Inglés,19,3,Hotel,3,2,0
+109,Estados Unidos,Inglés,36,12,Apartamento compartido,3,3,0
+110,Estados Unidos,Inglés,39,13,Hotel,2,2,0
+111,Reino Unido,Inglés,27,13,Hotel,4,0,1
+112,Estados Unidos,Italiano,25,10,Hostal,2,5,0
+113,Malta,Alemán,37,4,Residencia estudiantil,5,1,1
+114,Estados Unidos,Alemán,43,9,Hotel,5,0,1
+115,Reino Unido,Francés,22,22,Hostal,5,0,1
+116,Malta,Francés,18,24,Residencia estudiantil,5,0,1
+117,Canada,Italiano,38,23,Apartamento compartido,4,0,1
+118,Estados Unidos,Alemán,43,2,Apartamento compartido,4,0,1
+119,Reino Unido,Alemán,29,19,Familia anfitriona,3,4,0
+120,Canada,Inglés,39,1,Hostal,4,0,1
+121,Canada,Italiano,25,7,Residencia estudiantil,4,0,1
+122,Australia,Italiano,31,17,Hotel,4,0,1
+123,Malta,Inglés,31,3,Apartamento compartido,5,0,1
+124,Estados Unidos,Italiano,37,20,Residencia estudiantil,3,5,0
+125,Reino Unido,Italiano,25,20,Hostal,3,2,0
+126,Australia,Francés,40,21,Familia anfitriona,5,0,1
+127,Malta,Alemán,28,3,Apartamento compartido,2,3,0
+128,Australia,Italiano,21,3,Residencia estudiantil,4,1,1
+129,Malta,Francés,27,17,Residencia estudiantil,5,0,1
+130,Malta,Alemán,24,7,Residencia estudiantil,4,0,1
+131,Estados Unidos,Inglés,28,14,Hostal,4,0,1
+132,Malta,Francés,19,17,Hostal,3,6,0
+133,Australia,Francés,39,18,Hostal,3,3,0
+134,Malta,Alemán,26,13,Hotel,5,0,1
+135,Estados Unidos,Inglés,35,20,Residencia estudiantil,4,0,1
+136,Estados Unidos,Francés,33,20,Apartamento compartido,4,1,1
+137,Australia,Italiano,41,21,Hostal,2,1,0
+138,Canada,Italiano,26,18,Hostal,1,0,0
+139,Canada,Italiano,40,4,Residencia estudiantil,5,0,1
+140,Malta,Inglés,36,1,Hostal,4,0,1
+141,Reino Unido,Francés,19,18,Hotel,4,0,1
+142,Malta,Italiano,33,1,Hotel,2,4,0
+143,Australia,Inglés,16,13,Hostal,4,0,1
+144,Australia,Italiano,42,20,Residencia estudiantil,5,1,1
+145,Australia,Alemán,22,20,Residencia estudiantil,4,0,1
+146,Australia,Francés,21,23,Residencia estudiantil,2,2,0
+147,Australia,Francés,30,10,Familia anfitriona,4,0,1
+148,Estados Unidos,Inglés,33,11,Hostal,5,2,1
+149,Canada,Inglés,39,9,Residencia estudiantil,4,0,1
+150,Australia,Francés,26,9,Hotel,5,0,1
+151,Reino Unido,Italiano,35,5,Apartamento compartido,4,2,1
+152,Reino Unido,Italiano,39,1,Apartamento compartido,5,1,1
+153,Reino Unido,Alemán,30,17,Residencia estudiantil,4,0,1
+154,Reino Unido,Italiano,31,22,Apartamento compartido,2,3,0
+155,Estados Unidos,Inglés,22,2,Apartamento compartido,3,3,0
+156,Reino Unido,Inglés,36,24,Familia anfitriona,3,2,0
+157,Australia,Italiano,25,13,Hotel,5,2,1
+158,Malta,Inglés,41,9,Hotel,5,0,1
+159,Reino Unido,Francés,27,4,Familia anfitriona,4,0,1
+160,Estados Unidos,Francés,39,5,Familia anfitriona,3,2,0
+161,Estados Unidos,Italiano,29,11,Apartamento compartido,3,2,0
+162,Reino Unido,Francés,40,24,Hostal,5,0,1
+163,Malta,Francés,20,19,Apartamento compartido,4,3,1
+164,Reino Unido,Alemán,41,21,Familia anfitriona,3,2,0
+165,Estados Unidos,Alemán,36,3,Hotel,4,1,1
+166,Canada,Francés,33,12,Apartamento compartido,1,0,0
+167,Australia,Italiano,20,19,Hostal,3,2,0
+168,Estados Unidos,Alemán,18,19,Apartamento compartido,4,0,1
+169,Reino Unido,Inglés,38,13,Residencia estudiantil,2,2,0
+170,Australia,Inglés,41,7,Apartamento compartido,5,0,1
+171,Reino Unido,Inglés,20,15,Familia anfitriona,3,2,0
+172,Reino Unido,Italiano,39,23,Hotel,2,3,0
+173,Canada,Francés,32,7,Hotel,3,1,0
+174,Australia,Inglés,34,8,Familia anfitriona,5,1,1
+175,Australia,Italiano,34,5,Residencia estudiantil,4,1,1
+176,Canada,Alemán,40,21,Familia anfitriona,4,0,1
+177,Estados Unidos,Francés,36,14,Apartamento compartido,1,4,0
+178,Reino Unido,Alemán,27,4,Familia anfitriona,1,1,0
+179,Malta,Italiano,40,23,Familia anfitriona,4,0,1
+180,Reino Unido,Inglés,44,10,Residencia estudiantil,5,2,1
+181,Reino Unido,Inglés,24,20,Apartamento compartido,5,0,1
+182,Estados Unidos,Italiano,16,15,Hostal,2,2,0
+183,Reino Unido,Inglés,33,18,Hostal,4,0,1
+184,Canada,Francés,36,20,Hotel,5,0,1
+185,Canada,Italiano,19,13,Familia anfitriona,4,0,1
+186,Australia,Alemán,25,8,Hotel,5,0,1
+187,Malta,Italiano,40,9,Residencia estudiantil,2,0,0
+188,Reino Unido,Francés,22,16,Hostal,5,1,1
+189,Reino Unido,Francés,37,19,Familia anfitriona,5,0,1
+190,Estados Unidos,Italiano,38,16,Residencia estudiantil,5,0,1
+191,Canada,Italiano,16,7,Residencia estudiantil,4,2,1
+192,Malta,Inglés,32,14,Familia anfitriona,4,0,1
+193,Australia,Francés,39,14,Residencia estudiantil,5,1,1
+194,Canada,Italiano,44,4,Familia anfitriona,3,1,0
+195,Australia,Italiano,44,15,Familia anfitriona,3,1,0
+196,Estados Unidos,Francés,17,3,Apartamento compartido,4,1,1
+197,Estados Unidos,Italiano,43,5,Hotel,5,0,1
+198,Reino Unido,Inglés,41,1,Residencia estudiantil,5,1,1
+199,Malta,Francés,26,3,Residencia estudiantil,3,2,0
+200,Australia,Inglés,24,15,Apartamento compartido,5,0,1
+201,Canada,Inglés,22,24,Apartamento compartido,4,0,1
+202,Estados Unidos,Inglés,37,8,Apartamento compartido,2,4,0
+203,Reino Unido,Inglés,32,4,Hostal,4,0,1
+204,Reino Unido,Francés,32,2,Hostal,3,2,0
+205,Australia,Inglés,17,24,Hostal,3,3,0
+206,Estados Unidos,Inglés,21,24,Familia anfitriona,5,2,1
+207,Malta,Italiano,29,10,Residencia estudiantil,4,0,1
+208,Estados Unidos,Francés,21,4,Hotel,4,0,1
+209,Australia,Francés,17,3,Familia anfitriona,5,1,1
+210,Australia,Alemán,16,2,Residencia estudiantil,4,0,1
+211,Estados Unidos,Francés,25,17,Residencia estudiantil,5,1,1
+212,Australia,Francés,36,23,Apartamento compartido,4,1,1
+213,Estados Unidos,Alemán,20,21,Apartamento compartido,5,0,1
+214,Canada,Francés,17,24,Familia anfitriona,3,0,0
+215,Estados Unidos,Francés,37,20,Apartamento compartido,5,1,1
+216,Estados Unidos,Francés,31,23,Residencia estudiantil,3,5,0
+217,Australia,Francés,40,13,Apartamento compartido,3,3,0
+218,Australia,Alemán,17,5,Hostal,5,1,1
+219,Reino Unido,Francés,25,21,Apartamento compartido,4,1,1
+220,Reino Unido,Francés,17,9,Residencia estudiantil,4,0,1
+221,Canada,Alemán,31,22,Familia anfitriona,4,0,1
+222,Reino Unido,Italiano,31,6,Hotel,4,0,1
+223,Estados Unidos,Inglés,34,5,Apartamento compartido,3,3,0
+224,Australia,Italiano,44,10,Residencia estudiantil,2,2,0
+225,Reino Unido,Alemán,22,8,Hotel,3,3,0
+226,Reino Unido,Inglés,37,7,Hotel,4,1,1
+227,Canada,Alemán,27,7,Hostal,3,2,0
+228,Canada,Alemán,39,6,Hotel,4,0,1
+229,Estados Unidos,Francés,30,21,Residencia estudiantil,4,1,1
+230,Australia,Inglés,23,20,Residencia estudiantil,2,1,0
+231,Canada,Francés,21,3,Apartamento compartido,4,1,1
+232,Reino Unido,Inglés,43,19,Apartamento compartido,5,2,1
+233,Australia,Alemán,42,22,Apartamento compartido,3,1,0
+234,Australia,Alemán,25,15,Hotel,4,0,1
+235,Reino Unido,Italiano,18,4,Hotel,4,2,1
+236,Canada,Inglés,34,12,Hostal,4,0,1
+237,Reino Unido,Francés,32,6,Apartamento compartido,4,0,1
+238,Australia,Italiano,22,19,Familia anfitriona,4,0,1
+239,Malta,Italiano,36,4,Hostal,4,0,1
+240,Malta,Italiano,35,15,Familia anfitriona,1,1,0
+241,Estados Unidos,Francés,41,9,Hotel,4,1,1
+242,Reino Unido,Italiano,19,5,Hostal,4,0,1
+243,Reino Unido,Francés,29,13,Hostal,1,3,0
+244,Estados Unidos,Italiano,35,23,Residencia estudiantil,4,0,1
+245,Estados Unidos,Francés,37,18,Hotel,5,1,1
+246,Estados Unidos,Alemán,30,5,Hotel,4,3,1
+247,Australia,Alemán,39,16,Hostal,4,0,1
+248,Reino Unido,Alemán,23,19,Hotel,5,0,1
+249,Australia,Alemán,36,14,Hostal,4,1,1
+250,Estados Unidos,Alemán,30,16,Residencia estudiantil,4,0,1
+251,Reino Unido,Italiano,37,15,Hostal,5,1,1
+252,Australia,Italiano,35,22,Hotel,5,0,1
+253,Australia,Italiano,43,4,Hotel,4,0,1
+254,Estados Unidos,Francés,29,7,Hostal,4,0,1
+255,Reino Unido,Francés,42,16,Hostal,4,1,1
+256,Estados Unidos,Francés,44,24,Hostal,5,0,1
+257,Reino Unido,Francés,24,22,Apartamento compartido,4,0,1
+258,Malta,Alemán,23,21,Hotel,2,4,0
+259,Canada,Alemán,41,22,Hotel,5,1,1
+260,Canada,Alemán,43,21,Apartamento compartido,4,1,1
+261,Canada,Inglés,41,8,Hostal,2,3,0
+262,Estados Unidos,Italiano,32,17,Residencia estudiantil,4,1,1
+263,Malta,Francés,17,16,Hostal,4,0,1
+264,Reino Unido,Francés,40,23,Hostal,5,0,1
+265,Australia,Alemán,39,10,Apartamento compartido,3,5,0
+266,Reino Unido,Francés,18,10,Hotel,5,1,1
+267,Australia,Francés,23,2,Hostal,4,0,1
+268,Reino Unido,Italiano,27,9,Hotel,2,1,0
+269,Malta,Alemán,16,17,Familia anfitriona,5,0,1
+270,Australia,Italiano,25,11,Hotel,4,0,1
+271,Estados Unidos,Inglés,35,10,Residencia estudiantil,3,1,0
+272,Reino Unido,Inglés,18,22,Residencia estudiantil,4,0,1
+273,Reino Unido,Inglés,21,17,Hostal,5,1,1
+274,Australia,Alemán,22,4,Hotel,3,2,0
+275,Estados Unidos,Francés,35,16,Hostal,3,4,0
+276,Estados Unidos,Alemán,38,20,Apartamento compartido,2,3,0
+277,Malta,Alemán,40,15,Residencia estudiantil,3,3,0
+278,Estados Unidos,Francés,42,21,Hostal,5,0,1
+279,Estados Unidos,Italiano,33,5,Apartamento compartido,4,2,1
+280,Estados Unidos,Inglés,26,6,Hostal,3,3,0
+281,Canada,Italiano,34,17,Hotel,3,2,0
+282,Malta,Inglés,20,1,Hotel,3,3,0
+283,Reino Unido,Alemán,34,19,Hotel,5,0,1
+284,Australia,Inglés,26,4,Hotel,3,0,0
+285,Reino Unido,Alemán,39,17,Familia anfitriona,5,0,1
+286,Malta,Italiano,27,9,Apartamento compartido,4,1,1
+287,Australia,Alemán,25,24,Apartamento compartido,3,3,0
+288,Malta,Italiano,23,2,Hotel,5,0,1
+289,Estados Unidos,Francés,39,8,Familia anfitriona,4,2,1
+290,Australia,Francés,43,15,Hotel,4,1,1
+291,Estados Unidos,Francés,43,7,Familia anfitriona,5,1,1
+292,Reino Unido,Alemán,24,6,Hotel,2,4,0
+293,Reino Unido,Francés,19,1,Residencia estudiantil,2,3,0
+294,Australia,Inglés,20,15,Residencia estudiantil,4,0,1
+295,Australia,Italiano,36,23,Hostal,3,2,0
+296,Malta,Italiano,23,7,Hotel,3,4,0
+297,Malta,Inglés,38,17,Apartamento compartido,1,3,0
+298,Estados Unidos,Alemán,24,2,Hostal,1,4,0
+299,Australia,Alemán,30,9,Residencia estudiantil,5,1,1
+300,Reino Unido,Italiano,30,9,Hotel,2,3,0
+301,Malta,Francés,31,13,Hostal,4,1,1
+302,Malta,Alemán,29,6,Hotel,4,0,1
+303,Reino Unido,Alemán,23,6,Residencia estudiantil,4,0,1
+304,Malta,Inglés,33,20,Hostal,1,4,0
+305,Estados Unidos,Inglés,25,20,Residencia estudiantil,5,1,1
+306,Australia,Francés,43,21,Familia anfitriona,1,3,0
+307,Reino Unido,Alemán,35,3,Residencia estudiantil,5,0,1
+308,Australia,Alemán,21,17,Hotel,5,1,1
+309,Malta,Inglés,27,17,Apartamento compartido,4,1,1
+310,Malta,Alemán,17,12,Residencia estudiantil,4,0,1
+311,Reino Unido,Italiano,22,16,Apartamento compartido,4,2,1
+312,Estados Unidos,Inglés,31,15,Familia anfitriona,4,0,1
+313,Canada,Francés,18,13,Hostal,5,0,1
+314,Reino Unido,Inglés,28,23,Hostal,5,0,1
+315,Canada,Alemán,18,1,Apartamento compartido,3,4,0
+316,Canada,Francés,42,17,Hostal,4,0,1
+317,Estados Unidos,Inglés,33,3,Residencia estudiantil,5,0,1
+318,Canada,Italiano,26,15,Apartamento compartido,5,0,1
+319,Canada,Italiano,23,4,Hotel,4,0,1
+320,Estados Unidos,Inglés,21,4,Residencia estudiantil,4,0,1
+321,Canada,Italiano,16,18,Residencia estudiantil,3,2,0
+322,Canada,Italiano,43,17,Residencia estudiantil,5,0,1
+323,Canada,Italiano,16,19,Hotel,2,4,0
+324,Reino Unido,Francés,38,11,Familia anfitriona,4,0,1
+325,Reino Unido,Italiano,23,20,Hostal,3,1,0
+326,Reino Unido,Italiano,20,3,Apartamento compartido,3,2,0
+327,Estados Unidos,Italiano,43,8,Familia anfitriona,4,0,1
+328,Malta,Francés,31,14,Apartamento compartido,5,0,1
+329,Canada,Inglés,26,1,Hostal,2,2,0
+330,Canada,Alemán,20,14,Hotel,4,0,1
+331,Estados Unidos,Italiano,19,2,Residencia estudiantil,2,1,0
+332,Canada,Inglés,21,23,Residencia estudiantil,3,6,0
+333,Reino Unido,Italiano,29,4,Hotel,4,0,1
+334,Malta,Francés,37,24,Familia anfitriona,4,0,1
+335,Australia,Inglés,34,19,Familia anfitriona,3,4,0
+336,Canada,Francés,24,6,Apartamento compartido,3,1,0
+337,Reino Unido,Italiano,27,1,Hotel,2,1,0
+338,Australia,Italiano,26,17,Familia anfitriona,3,3,0
+339,Malta,Francés,29,8,Hotel,5,1,1
+340,Australia,Alemán,38,19,Hostal,5,0,1
+341,Reino Unido,Francés,31,21,Residencia estudiantil,3,3,0
+342,Australia,Italiano,16,1,Residencia estudiantil,4,0,1
+343,Estados Unidos,Francés,28,5,Residencia estudiantil,5,0,1
+344,Australia,Alemán,38,16,Hotel,1,3,0
+345,Canada,Francés,36,6,Hotel,5,2,1
+346,Canada,Alemán,36,8,Apartamento compartido,5,1,1
+347,Estados Unidos,Alemán,28,13,Residencia estudiantil,2,1,0
+348,Reino Unido,Francés,17,16,Apartamento compartido,3,0,0
+349,Canada,Francés,19,3,Residencia estudiantil,5,1,1
+350,Malta,Inglés,43,19,Apartamento compartido,4,0,1
+351,Canada,Italiano,21,12,Apartamento compartido,1,2,0
+352,Canada,Alemán,41,16,Hostal,3,1,0
+353,Reino Unido,Inglés,42,11,Apartamento compartido,4,0,1
+354,Australia,Francés,38,10,Hotel,4,0,1
+355,Canada,Italiano,42,20,Apartamento compartido,4,0,1
+356,Estados Unidos,Inglés,20,4,Residencia estudiantil,5,0,1
+357,Australia,Alemán,40,12,Apartamento compartido,3,3,0
+358,Malta,Inglés,18,23,Familia anfitriona,4,0,1
+359,Reino Unido,Alemán,16,2,Residencia estudiantil,4,1,1
+360,Malta,Francés,19,24,Familia anfitriona,4,0,1
+361,Australia,Italiano,40,22,Residencia estudiantil,3,3,0
+362,Australia,Italiano,35,19,Hotel,5,0,1
+363,Australia,Italiano,17,5,Hotel,5,1,1
+364,Malta,Francés,41,8,Hotel,4,0,1
+365,Australia,Alemán,20,7,Familia anfitriona,4,0,1
+366,Malta,Francés,18,14,Hostal,3,4,0
+367,Australia,Italiano,44,24,Residencia estudiantil,4,0,1
+368,Estados Unidos,Francés,43,23,Hotel,4,0,1
+369,Australia,Francés,44,3,Residencia estudiantil,4,0,1
+370,Malta,Francés,24,18,Familia anfitriona,5,1,1
+371,Canada,Alemán,35,16,Hostal,4,0,1
+372,Australia,Inglés,21,23,Familia anfitriona,4,0,1
+373,Canada,Inglés,33,19,Residencia estudiantil,5,1,1
+374,Estados Unidos,Francés,21,19,Hostal,3,3,0
+375,Reino Unido,Inglés,34,18,Hostal,4,2,1
+376,Estados Unidos,Inglés,43,20,Familia anfitriona,3,1,0
+377,Australia,Francés,27,16,Hotel,4,1,1
+378,Canada,Francés,40,8,Residencia estudiantil,5,0,1
+379,Canada,Italiano,26,1,Apartamento compartido,4,0,1
+380,Malta,Inglés,17,17,Apartamento compartido,5,0,1
+381,Canada,Alemán,30,12,Familia anfitriona,4,1,1
+382,Malta,Francés,27,21,Residencia estudiantil,3,3,0
+383,Reino Unido,Italiano,27,11,Residencia estudiantil,5,0,1
+384,Australia,Alemán,24,5,Familia anfitriona,3,2,0
+385,Malta,Inglés,36,12,Residencia estudiantil,3,1,0
+386,Reino Unido,Italiano,39,17,Hotel,4,1,1
+387,Canada,Francés,17,6,Familia anfitriona,3,4,0
+388,Canada,Alemán,37,1,Hotel,1,2,0
+389,Reino Unido,Francés,18,5,Residencia estudiantil,4,0,1
+390,Canada,Inglés,27,14,Familia anfitriona,4,1,1
+391,Reino Unido,Alemán,43,5,Residencia estudiantil,4,1,1
+392,Malta,Inglés,41,22,Familia anfitriona,5,1,1
+393,Malta,Inglés,31,24,Residencia estudiantil,4,0,1
+394,Reino Unido,Italiano,36,1,Hotel,5,0,1
+395,Malta,Francés,43,18,Hotel,2,4,0
+396,Malta,Alemán,39,16,Residencia estudiantil,4,0,1
+397,Malta,Inglés,41,9,Familia anfitriona,5,0,1
+398,Estados Unidos,Inglés,16,19,Apartamento compartido,4,0,1
+399,Australia,Alemán,36,22,Hotel,4,0,1
+400,Canada,Inglés,18,5,Hotel,4,3,1
+401,Estados Unidos,Italiano,35,2,Apartamento compartido,2,5,0
+402,Malta,Italiano,17,15,Residencia estudiantil,4,0,1
+403,Reino Unido,Italiano,24,7,Familia anfitriona,4,0,1
+404,Malta,Italiano,34,4,Residencia estudiantil,5,0,1
+405,Australia,Inglés,30,1,Hostal,3,3,0
+406,Malta,Alemán,33,13,Hotel,5,0,1
+407,Reino Unido,Alemán,41,20,Hostal,5,0,1
+408,Australia,Alemán,26,22,Hotel,3,1,0
+409,Malta,Alemán,40,7,Hotel,3,3,0
+410,Australia,Francés,38,15,Hostal,5,0,1
+411,Canada,Alemán,31,23,Hostal,5,0,1
+412,Canada,Francés,37,14,Residencia estudiantil,4,1,1
+413,Malta,Francés,32,23,Hostal,3,2,0
+414,Australia,Italiano,20,19,Residencia estudiantil,4,1,1
+415,Reino Unido,Francés,27,22,Residencia estudiantil,4,0,1
+416,Malta,Inglés,26,24,Residencia estudiantil,3,1,0
+417,Canada,Francés,30,20,Hotel,4,1,1
+418,Canada,Italiano,42,24,Hotel,2,1,0
+419,Malta,Francés,18,18,Hostal,1,3,0
+420,Australia,Inglés,16,10,Hotel,4,0,1
+421,Canada,Inglés,35,9,Hostal,4,1,1
+422,Australia,Inglés,44,8,Hotel,3,2,0
+423,Canada,Italiano,31,10,Familia anfitriona,4,2,1
+424,Canada,Italiano,17,17,Familia anfitriona,3,3,0
+425,Estados Unidos,Alemán,17,2,Hostal,3,3,0
+426,Canada,Italiano,18,6,Hotel,3,1,0
+427,Reino Unido,Inglés,23,5,Hotel,5,1,1
+428,Malta,Inglés,39,9,Residencia estudiantil,4,1,1
+429,Malta,Italiano,43,5,Apartamento compartido,4,0,1
+430,Australia,Francés,30,18,Hostal,4,0,1
+431,Canada,Italiano,22,20,Apartamento compartido,5,0,1
+432,Reino Unido,Italiano,21,9,Apartamento compartido,3,1,0
+433,Australia,Inglés,24,17,Hostal,4,1,1
+434,Estados Unidos,Alemán,35,17,Hotel,4,0,1
+435,Australia,Inglés,43,12,Hostal,4,0,1
+436,Australia,Alemán,16,7,Apartamento compartido,2,1,0
+437,Canada,Inglés,23,3,Hotel,4,0,1
+438,Estados Unidos,Italiano,38,10,Familia anfitriona,2,2,0
+439,Australia,Inglés,38,2,Hostal,4,0,1
+440,Reino Unido,Inglés,18,3,Hostal,4,0,1
+441,Reino Unido,Inglés,19,16,Hotel,3,1,0
+442,Malta,Italiano,41,2,Familia anfitriona,5,0,1
+443,Estados Unidos,Italiano,40,24,Familia anfitriona,1,4,0
+444,Estados Unidos,Italiano,30,10,Hotel,5,1,1
+445,Malta,Italiano,21,6,Residencia estudiantil,4,0,1
+446,Australia,Alemán,30,22,Hostal,3,2,0
+447,Estados Unidos,Alemán,36,11,Hostal,2,4,0
+448,Reino Unido,Francés,18,23,Apartamento compartido,5,0,1
+449,Reino Unido,Italiano,40,7,Hotel,2,3,0
+450,Canada,Alemán,36,15,Apartamento compartido,3,3,0
+451,Estados Unidos,Inglés,36,6,Apartamento compartido,3,3,0
+452,Australia,Italiano,29,20,Familia anfitriona,4,1,1
+453,Malta,Francés,35,9,Hostal,4,0,1
+454,Malta,Francés,29,22,Apartamento compartido,2,2,0
+455,Australia,Francés,19,20,Familia anfitriona,3,3,0
+456,Canada,Inglés,27,12,Hotel,3,3,0
+457,Malta,Alemán,32,19,Apartamento compartido,3,4,0
+458,Estados Unidos,Inglés,22,20,Hostal,4,0,1
+459,Canada,Italiano,24,3,Apartamento compartido,4,0,1
+460,Estados Unidos,Francés,18,15,Hotel,3,2,0
+461,Reino Unido,Inglés,43,2,Apartamento compartido,4,0,1
+462,Canada,Inglés,28,21,Hostal,4,1,1
+463,Malta,Alemán,30,2,Familia anfitriona,5,1,1
+464,Canada,Alemán,33,22,Hostal,5,1,1
+465,Canada,Francés,34,3,Familia anfitriona,5,0,1
+466,Canada,Inglés,16,6,Residencia estudiantil,3,3,0
+467,Canada,Inglés,21,15,Hostal,2,4,0
+468,Estados Unidos,Alemán,42,10,Hostal,3,1,0
+469,Reino Unido,Inglés,42,9,Hotel,3,2,0
+470,Australia,Inglés,38,1,Apartamento compartido,4,1,1
+471,Canada,Inglés,42,16,Familia anfitriona,5,0,1
+472,Malta,Alemán,42,6,Familia anfitriona,5,0,1
+473,Canada,Francés,17,9,Hotel,5,0,1
+474,Malta,Italiano,39,4,Hotel,4,1,1
+475,Estados Unidos,Francés,29,2,Apartamento compartido,4,1,1
+476,Malta,Italiano,21,4,Apartamento compartido,3,3,0
+477,Australia,Inglés,29,1,Hostal,2,1,0
+478,Reino Unido,Francés,19,19,Residencia estudiantil,4,0,1
+479,Malta,Italiano,36,10,Apartamento compartido,1,4,0
+480,Malta,Alemán,23,21,Hotel,4,0,1
+481,Reino Unido,Alemán,18,15,Apartamento compartido,3,1,0
+482,Australia,Francés,34,22,Familia anfitriona,4,0,1
+483,Canada,Francés,29,19,Residencia estudiantil,5,1,1
+484,Malta,Inglés,42,16,Hostal,3,0,0
+485,Reino Unido,Francés,35,21,Familia anfitriona,5,1,1
+486,Estados Unidos,Inglés,32,24,Familia anfitriona,3,5,0
+487,Reino Unido,Inglés,40,22,Residencia estudiantil,4,1,1
+488,Estados Unidos,Alemán,23,4,Hostal,4,0,1
+489,Australia,Alemán,39,2,Hotel,4,0,1
+490,Canada,Italiano,29,13,Hostal,5,0,1
+491,Reino Unido,Alemán,41,1,Apartamento compartido,3,3,0
+492,Malta,Alemán,21,17,Familia anfitriona,4,1,1
+493,Australia,Francés,38,13,Apartamento compartido,4,2,1
+494,Reino Unido,Alemán,37,4,Hotel,5,1,1
+495,Malta,Italiano,31,7,Apartamento compartido,3,2,0
+496,Reino Unido,Francés,40,17,Hostal,5,1,1
+497,Estados Unidos,Italiano,34,9,Apartamento compartido,4,0,1
+498,Reino Unido,Alemán,29,4,Hotel,3,5,0
+499,Reino Unido,Italiano,34,19,Hotel,4,0,1
+500,Reino Unido,Francés,18,1,Hotel,3,1,0
+501,Australia,Inglés,25,10,Hostal,4,1,1
+502,Reino Unido,Italiano,34,4,Hotel,5,1,1
+503,Malta,Italiano,24,9,Familia anfitriona,4,0,1
+504,Estados Unidos,Francés,43,13,Hotel,4,0,1
+505,Estados Unidos,Francés,35,14,Apartamento compartido,4,2,1
+506,Reino Unido,Italiano,28,10,Apartamento compartido,2,2,0
+507,Australia,Alemán,22,6,Apartamento compartido,3,0,0
+508,Australia,Italiano,29,16,Hostal,4,1,1
+509,Malta,Francés,24,6,Apartamento compartido,3,2,0
+510,Reino Unido,Inglés,42,17,Hostal,3,3,0
+511,Estados Unidos,Inglés,43,10,Hostal,4,1,1
+512,Australia,Alemán,38,18,Hotel,3,1,0
+513,Reino Unido,Italiano,40,22,Familia anfitriona,3,2,0
+514,Australia,Inglés,43,18,Hotel,4,0,1
+515,Australia,Italiano,34,3,Hotel,2,4,0
+516,Estados Unidos,Francés,30,20,Hostal,5,1,1
+517,Canada,Inglés,35,21,Hostal,5,0,1
+518,Malta,Alemán,29,15,Apartamento compartido,4,1,1
+519,Malta,Francés,39,15,Apartamento compartido,2,6,0
+520,Estados Unidos,Alemán,21,4,Hotel,5,0,1
+521,Australia,Francés,36,9,Residencia estudiantil,5,2,1
+522,Reino Unido,Inglés,44,19,Residencia estudiantil,5,0,1
+523,Australia,Alemán,19,24,Apartamento compartido,2,1,0
+524,Estados Unidos,Alemán,23,17,Residencia estudiantil,4,0,1
+525,Malta,Francés,32,11,Apartamento compartido,5,0,1
+526,Australia,Alemán,24,9,Hostal,4,0,1
+527,Malta,Francés,16,10,Hotel,4,0,1
+528,Reino Unido,Francés,39,18,Familia anfitriona,4,0,1
+529,Malta,Francés,35,20,Hotel,4,0,1
+530,Malta,Francés,40,13,Apartamento compartido,1,2,0
+531,Canada,Inglés,29,8,Apartamento compartido,4,0,1
+532,Canada,Francés,26,7,Hotel,2,1,0
+533,Canada,Italiano,36,17,Apartamento compartido,4,0,1
+534,Malta,Alemán,18,21,Residencia estudiantil,3,0,0
+535,Estados Unidos,Italiano,24,23,Residencia estudiantil,4,2,1
+536,Malta,Inglés,42,15,Apartamento compartido,2,4,0
+537,Estados Unidos,Italiano,29,20,Apartamento compartido,4,1,1
+538,Estados Unidos,Alemán,24,15,Residencia estudiantil,5,0,1
+539,Canada,Italiano,19,1,Apartamento compartido,3,2,0
+540,Australia,Inglés,42,14,Apartamento compartido,2,5,0
+541,Reino Unido,Francés,19,5,Hotel,2,5,0
+542,Canada,Italiano,43,11,Familia anfitriona,5,0,1
+543,Canada,Inglés,23,16,Residencia estudiantil,4,1,1
+544,Australia,Inglés,17,2,Hotel,4,1,1
+545,Reino Unido,Alemán,24,8,Familia anfitriona,2,1,0
+546,Malta,Alemán,44,11,Apartamento compartido,4,1,1
+547,Malta,Italiano,29,18,Apartamento compartido,5,0,1
+548,Canada,Francés,37,3,Hotel,5,1,1
+549,Reino Unido,Inglés,24,1,Apartamento compartido,4,1,1
+550,Canada,Italiano,39,11,Hostal,2,5,0
+551,Estados Unidos,Inglés,38,16,Hotel,2,4,0
+552,Canada,Inglés,31,18,Familia anfitriona,1,0,0
+553,Canada,Francés,44,16,Hotel,3,0,0
+554,Malta,Francés,32,23,Residencia estudiantil,2,4,0
+555,Malta,Italiano,31,10,Hotel,3,2,0
+556,Malta,Francés,27,18,Apartamento compartido,4,0,1
+557,Estados Unidos,Francés,18,6,Apartamento compartido,5,1,1
+558,Malta,Italiano,26,19,Hostal,4,1,1
+559,Reino Unido,Francés,29,4,Hostal,5,1,1
+560,Australia,Alemán,33,13,Hostal,4,1,1
+561,Reino Unido,Inglés,36,24,Familia anfitriona,2,3,0
+562,Reino Unido,Inglés,36,14,Hostal,4,0,1
+563,Malta,Inglés,20,3,Familia anfitriona,3,3,0
+564,Australia,Inglés,31,10,Hostal,4,0,1
+565,Australia,Italiano,35,6,Familia anfitriona,3,1,0
+566,Australia,Inglés,20,1,Hotel,5,1,1
+567,Estados Unidos,Inglés,18,23,Hotel,3,2,0
+568,Malta,Inglés,27,24,Apartamento compartido,3,2,0
+569,Australia,Inglés,16,14,Familia anfitriona,5,0,1
+570,Estados Unidos,Alemán,36,8,Residencia estudiantil,1,2,0
+571,Canada,Inglés,44,19,Apartamento compartido,4,1,1
+572,Canada,Alemán,24,14,Hotel,4,1,1
+573,Estados Unidos,Italiano,44,10,Familia anfitriona,5,1,1
+574,Estados Unidos,Francés,24,17,Hostal,5,0,1
+575,Malta,Inglés,19,9,Residencia estudiantil,5,0,1
+576,Malta,Francés,18,6,Hotel,2,4,0
+577,Canada,Francés,32,11,Apartamento compartido,5,1,1
+578,Australia,Italiano,17,7,Familia anfitriona,4,0,1
+579,Canada,Francés,39,17,Residencia estudiantil,4,1,1
+580,Australia,Alemán,16,1,Familia anfitriona,2,2,0
+581,Australia,Francés,23,22,Hostal,4,0,1
+582,Malta,Francés,28,5,Apartamento compartido,5,1,1
+583,Reino Unido,Francés,38,9,Familia anfitriona,5,1,1
+584,Reino Unido,Inglés,30,18,Hotel,4,0,1
+585,Estados Unidos,Inglés,23,24,Apartamento compartido,1,1,0
+586,Malta,Alemán,27,21,Hotel,4,0,1
+587,Australia,Alemán,37,2,Familia anfitriona,5,2,1
+588,Reino Unido,Inglés,27,11,Apartamento compartido,4,0,1
+589,Australia,Alemán,29,6,Hotel,4,0,1
+590,Reino Unido,Inglés,30,8,Hostal,2,1,0
+591,Reino Unido,Italiano,30,4,Hostal,4,1,1
+592,Reino Unido,Francés,24,18,Familia anfitriona,4,0,1
+593,Malta,Francés,34,11,Apartamento compartido,5,1,1
+594,Canada,Alemán,41,5,Residencia estudiantil,4,0,1
+595,Australia,Inglés,35,15,Apartamento compartido,3,2,0
+596,Malta,Inglés,44,18,Hostal,4,1,1
+597,Malta,Alemán,37,2,Hotel,2,0,0
+598,Malta,Inglés,23,22,Residencia estudiantil,5,1,1
+599,Malta,Italiano,36,11,Familia anfitriona,4,0,1
+600,Malta,Francés,34,13,Residencia estudiantil,4,0,1
+601,Estados Unidos,Alemán,21,4,Familia anfitriona,4,0,1
+602,Australia,Alemán,35,22,Residencia estudiantil,4,0,1
+603,Malta,Inglés,40,7,Familia anfitriona,4,1,1
+604,Australia,Alemán,44,11,Familia anfitriona,4,0,1
+605,Estados Unidos,Italiano,34,22,Residencia estudiantil,3,1,0
+606,Estados Unidos,Inglés,19,24,Residencia estudiantil,3,2,0
+607,Australia,Inglés,38,4,Familia anfitriona,2,1,0
+608,Reino Unido,Inglés,22,15,Hostal,4,0,1
+609,Canada,Inglés,43,1,Residencia estudiantil,1,2,0
+610,Reino Unido,Italiano,43,23,Apartamento compartido,4,0,1
+611,Reino Unido,Inglés,19,3,Hotel,5,2,1
+612,Reino Unido,Alemán,37,14,Familia anfitriona,5,0,1
+613,Malta,Italiano,27,6,Familia anfitriona,4,0,1
+614,Estados Unidos,Francés,28,18,Hotel,4,0,1
+615,Reino Unido,Francés,18,1,Hostal,2,5,0
+616,Estados Unidos,Alemán,37,6,Hotel,4,0,1
+617,Australia,Alemán,27,6,Residencia estudiantil,5,0,1
+618,Canada,Italiano,17,21,Hotel,3,2,0
+619,Australia,Francés,39,16,Familia anfitriona,4,0,1
+620,Australia,Francés,17,5,Hotel,5,0,1
+621,Malta,Francés,42,17,Apartamento compartido,5,0,1
+622,Canada,Francés,38,10,Residencia estudiantil,3,4,0
+623,Australia,Francés,24,21,Hotel,4,0,1
+624,Australia,Inglés,16,18,Familia anfitriona,3,5,0
+625,Canada,Alemán,23,7,Residencia estudiantil,2,0,0
+626,Canada,Inglés,38,3,Familia anfitriona,5,0,1
+627,Australia,Francés,21,13,Hostal,5,1,1
+628,Canada,Italiano,21,15,Apartamento compartido,5,0,1
+629,Australia,Italiano,37,20,Hostal,1,3,0
+630,Australia,Francés,40,19,Apartamento compartido,5,0,1
+631,Malta,Francés,33,3,Hotel,4,0,1
+632,Reino Unido,Italiano,32,4,Residencia estudiantil,3,0,0
+633,Australia,Inglés,44,5,Hotel,4,0,1
+634,Estados Unidos,Inglés,27,1,Apartamento compartido,2,0,0
+635,Reino Unido,Francés,21,4,Apartamento compartido,5,1,1
+636,Reino Unido,Inglés,41,12,Apartamento compartido,4,1,1
+637,Reino Unido,Italiano,42,24,Familia anfitriona,3,2,0
+638,Malta,Inglés,23,10,Residencia estudiantil,3,1,0
+639,Australia,Francés,34,23,Hotel,3,5,0
+640,Malta,Italiano,43,21,Hotel,2,1,0
+641,Australia,Inglés,25,20,Hostal,4,0,1
+642,Malta,Alemán,16,24,Apartamento compartido,5,0,1
+643,Malta,Italiano,40,13,Apartamento compartido,1,2,0
+644,Estados Unidos,Italiano,44,23,Apartamento compartido,1,2,0
+645,Malta,Alemán,28,14,Hotel,4,0,1
+646,Canada,Alemán,32,23,Hostal,5,0,1
+647,Estados Unidos,Italiano,18,5,Familia anfitriona,3,1,0
+648,Malta,Alemán,23,4,Residencia estudiantil,3,5,0
+649,Reino Unido,Francés,29,14,Familia anfitriona,4,0,1
+650,Canada,Francés,18,10,Hotel,3,3,0
+651,Canada,Francés,31,17,Apartamento compartido,1,1,0
+652,Canada,Italiano,28,10,Residencia estudiantil,4,1,1
+653,Estados Unidos,Alemán,35,7,Hotel,4,1,1
+654,Malta,Alemán,39,16,Hotel,4,0,1
+655,Malta,Inglés,32,1,Hotel,4,1,1
+656,Reino Unido,Inglés,28,17,Residencia estudiantil,4,0,1
+657,Reino Unido,Alemán,44,21,Residencia estudiantil,3,0,0
+658,Canada,Alemán,21,9,Hostal,4,0,1
+659,Reino Unido,Alemán,32,6,Hostal,2,2,0
+660,Estados Unidos,Italiano,29,19,Familia anfitriona,2,1,0
+661,Malta,Alemán,32,13,Residencia estudiantil,4,1,1
+662,Canada,Inglés,23,3,Residencia estudiantil,5,0,1
+663,Reino Unido,Italiano,26,7,Residencia estudiantil,5,0,1
+664,Estados Unidos,Alemán,35,22,Hostal,4,1,1
+665,Estados Unidos,Inglés,43,9,Hotel,3,4,0
+666,Reino Unido,Italiano,16,22,Apartamento compartido,2,3,0
+667,Malta,Alemán,41,5,Hostal,5,0,1
+668,Reino Unido,Alemán,22,10,Residencia estudiantil,4,0,1
+669,Canada,Alemán,36,23,Hostal,4,0,1
+670,Reino Unido,Italiano,36,17,Familia anfitriona,5,0,1
+671,Estados Unidos,Inglés,32,12,Residencia estudiantil,4,0,1
+672,Reino Unido,Inglés,25,23,Familia anfitriona,5,0,1
+673,Malta,Francés,26,16,Residencia estudiantil,2,3,0
+674,Australia,Alemán,37,3,Hostal,4,0,1
+675,Reino Unido,Francés,24,22,Hotel,5,1,1
+676,Malta,Francés,24,9,Apartamento compartido,3,3,0
+677,Malta,Inglés,39,15,Familia anfitriona,4,0,1
+678,Estados Unidos,Italiano,20,5,Hostal,3,0,0
+679,Malta,Italiano,32,23,Hotel,5,1,1
+680,Malta,Inglés,24,13,Hostal,1,3,0
+681,Malta,Italiano,32,14,Familia anfitriona,4,1,1
+682,Malta,Francés,39,20,Apartamento compartido,3,1,0
+683,Canada,Alemán,36,15,Hostal,4,0,1
+684,Canada,Inglés,34,16,Residencia estudiantil,3,0,0
+685,Estados Unidos,Alemán,42,23,Hotel,3,1,0
+686,Reino Unido,Italiano,22,13,Hostal,4,0,1
+687,Malta,Alemán,38,17,Hotel,5,2,1
+688,Reino Unido,Italiano,24,23,Residencia estudiantil,3,2,0
+689,Reino Unido,Italiano,22,8,Apartamento compartido,2,3,0
+690,Estados Unidos,Francés,28,21,Apartamento compartido,5,1,1
+691,Malta,Italiano,26,2,Residencia estudiantil,4,0,1
+692,Malta,Francés,29,5,Hotel,5,1,1
+693,Australia,Francés,34,6,Hostal,2,5,0
+694,Reino Unido,Francés,26,12,Residencia estudiantil,4,1,1
+695,Reino Unido,Inglés,28,18,Familia anfitriona,3,2,0
+696,Canada,Inglés,29,22,Hotel,3,1,0
+697,Australia,Italiano,28,22,Apartamento compartido,4,0,1
+698,Canada,Francés,16,1,Residencia estudiantil,4,1,1
+699,Canada,Inglés,23,17,Apartamento compartido,5,1,1
+700,Canada,Francés,27,11,Hotel,3,2,0
+701,Estados Unidos,Alemán,34,10,Apartamento compartido,4,0,1
+702,Estados Unidos,Alemán,27,19,Residencia estudiantil,4,1,1
+703,Canada,Alemán,23,14,Hotel,5,1,1
+704,Australia,Italiano,23,10,Familia anfitriona,3,3,0
+705,Reino Unido,Francés,44,15,Residencia estudiantil,3,4,0
+706,Australia,Alemán,36,19,Hostal,4,1,1
+707,Malta,Inglés,28,4,Residencia estudiantil,4,2,1
+708,Estados Unidos,Alemán,27,2,Hotel,3,2,0
+709,Reino Unido,Alemán,44,9,Residencia estudiantil,5,0,1
+710,Reino Unido,Alemán,31,10,Familia anfitriona,3,4,0
+711,Malta,Italiano,16,11,Familia anfitriona,5,0,1
+712,Malta,Inglés,28,14,Hostal,2,1,0
+713,Canada,Francés,41,7,Apartamento compartido,4,0,1
+714,Estados Unidos,Inglés,22,23,Hotel,5,1,1
+715,Estados Unidos,Francés,43,15,Hotel,3,3,0
+716,Australia,Italiano,41,22,Apartamento compartido,5,1,1
+717,Canada,Italiano,20,19,Familia anfitriona,4,0,1
+718,Canada,Italiano,23,22,Familia anfitriona,5,1,1
+719,Canada,Italiano,40,15,Residencia estudiantil,4,1,1
+720,Canada,Francés,42,24,Hostal,3,1,0
+721,Estados Unidos,Alemán,29,8,Hostal,3,4,0
+722,Estados Unidos,Francés,38,11,Hostal,3,2,0
+723,Canada,Inglés,28,9,Residencia estudiantil,2,3,0
+724,Australia,Italiano,30,15,Hostal,2,1,0
+725,Reino Unido,Italiano,38,1,Apartamento compartido,2,2,0
+726,Reino Unido,Inglés,32,1,Residencia estudiantil,4,0,1
+727,Australia,Francés,30,19,Apartamento compartido,5,0,1
+728,Canada,Alemán,35,3,Residencia estudiantil,2,4,0
+729,Estados Unidos,Alemán,33,10,Hostal,2,3,0
+730,Reino Unido,Inglés,33,8,Apartamento compartido,4,0,1
+731,Malta,Alemán,17,15,Apartamento compartido,3,1,0
+732,Malta,Francés,19,10,Apartamento compartido,2,1,0
+733,Australia,Francés,16,1,Residencia estudiantil,3,3,0
+734,Canada,Inglés,19,18,Hotel,5,2,1
+735,Reino Unido,Francés,33,2,Hostal,5,0,1
+736,Canada,Italiano,20,19,Apartamento compartido,4,1,1
+737,Reino Unido,Inglés,34,13,Hotel,4,1,1
+738,Australia,Francés,30,22,Hostal,4,0,1
+739,Australia,Inglés,43,1,Hostal,4,0,1
+740,Malta,Alemán,23,2,Apartamento compartido,4,0,1
+741,Canada,Francés,35,16,Apartamento compartido,4,2,1
+742,Malta,Italiano,32,15,Residencia estudiantil,3,0,0
+743,Canada,Francés,16,13,Hotel,1,3,0
+744,Malta,Inglés,27,16,Hotel,4,1,1
+745,Estados Unidos,Inglés,41,17,Apartamento compartido,5,0,1
+746,Estados Unidos,Francés,34,21,Hostal,4,0,1
+747,Estados Unidos,Italiano,30,7,Apartamento compartido,5,2,1
+748,Estados Unidos,Italiano,24,24,Hostal,5,0,1
+749,Reino Unido,Italiano,22,17,Hostal,3,2,0
+750,Estados Unidos,Inglés,17,7,Apartamento compartido,4,0,1
+751,Australia,Francés,44,13,Familia anfitriona,4,0,1
+752,Australia,Alemán,24,5,Hotel,5,1,1
+753,Reino Unido,Inglés,25,17,Hostal,5,1,1
+754,Estados Unidos,Italiano,17,3,Hostal,4,0,1
+755,Estados Unidos,Francés,34,7,Familia anfitriona,3,3,0
+756,Estados Unidos,Italiano,26,17,Residencia estudiantil,5,1,1
+757,Malta,Alemán,28,7,Familia anfitriona,2,3,0
+758,Canada,Italiano,25,21,Familia anfitriona,5,0,1
+759,Malta,Italiano,29,1,Hostal,5,1,1
+760,Canada,Alemán,33,17,Hotel,4,0,1
+761,Estados Unidos,Francés,34,17,Familia anfitriona,4,0,1
+762,Estados Unidos,Inglés,37,11,Residencia estudiantil,4,1,1
+763,Malta,Francés,24,3,Apartamento compartido,4,0,1
+764,Malta,Alemán,40,15,Familia anfitriona,3,1,0
+765,Canada,Italiano,22,21,Familia anfitriona,5,0,1
+766,Australia,Francés,43,11,Residencia estudiantil,5,1,1
+767,Canada,Inglés,18,16,Hotel,5,0,1
+768,Malta,Alemán,35,22,Familia anfitriona,3,2,0
+769,Malta,Francés,21,9,Familia anfitriona,5,2,1
+770,Reino Unido,Inglés,42,24,Hotel,4,1,1
+771,Malta,Alemán,36,24,Residencia estudiantil,3,3,0
+772,Reino Unido,Inglés,17,1,Familia anfitriona,2,2,0
+773,Australia,Alemán,44,22,Hotel,3,1,0
+774,Canada,Italiano,21,16,Familia anfitriona,5,1,1
+775,Canada,Francés,18,9,Apartamento compartido,4,0,1
+776,Reino Unido,Inglés,31,19,Hostal,4,2,1
+777,Canada,Alemán,23,12,Apartamento compartido,3,2,0
+778,Malta,Inglés,17,19,Familia anfitriona,4,0,1
+779,Estados Unidos,Inglés,32,22,Residencia estudiantil,1,1,0
+780,Reino Unido,Francés,24,9,Hostal,4,0,1
+781,Canada,Italiano,27,7,Apartamento compartido,4,0,1
+782,Reino Unido,Inglés,18,14,Hotel,2,1,0
+783,Reino Unido,Alemán,26,19,Residencia estudiantil,5,1,1
+784,Estados Unidos,Alemán,16,19,Apartamento compartido,3,1,0
+785,Malta,Italiano,38,2,Hotel,4,1,1
+786,Reino Unido,Alemán,28,9,Familia anfitriona,4,0,1
+787,Canada,Italiano,30,13,Hotel,4,1,1
+788,Australia,Alemán,41,15,Apartamento compartido,2,1,0
+789,Reino Unido,Francés,20,3,Apartamento compartido,1,2,0
+790,Reino Unido,Inglés,36,11,Familia anfitriona,5,0,1
+791,Estados Unidos,Francés,32,21,Hotel,3,1,0
+792,Malta,Inglés,40,14,Hotel,5,0,1
+793,Australia,Inglés,38,8,Familia anfitriona,5,0,1
+794,Canada,Inglés,39,18,Hotel,3,3,0
+795,Australia,Francés,40,19,Familia anfitriona,3,1,0
+796,Canada,Inglés,21,16,Residencia estudiantil,4,0,1
+797,Malta,Francés,43,2,Apartamento compartido,5,0,1
+798,Canada,Italiano,36,8,Residencia estudiantil,5,0,1
+799,Estados Unidos,Alemán,37,22,Hostal,4,1,1
+800,Estados Unidos,Alemán,26,6,Hostal,5,0,1
+801,Estados Unidos,Inglés,33,12,Hostal,2,3,0
+802,Estados Unidos,Francés,19,15,Familia anfitriona,5,0,1
+803,Australia,Alemán,18,8,Hotel,5,2,1
+804,Malta,Francés,28,4,Residencia estudiantil,3,2,0
+805,Canada,Francés,38,15,Residencia estudiantil,3,2,0
+806,Canada,Inglés,24,20,Residencia estudiantil,2,2,0
+807,Estados Unidos,Alemán,36,17,Residencia estudiantil,3,3,0
+808,Estados Unidos,Inglés,21,13,Hostal,5,0,1
+809,Reino Unido,Inglés,41,18,Residencia estudiantil,4,1,1
+810,Malta,Alemán,43,2,Hotel,2,2,0
+811,Australia,Alemán,27,13,Hostal,3,1,0
+812,Canada,Italiano,17,13,Residencia estudiantil,5,0,1
+813,Reino Unido,Italiano,18,22,Familia anfitriona,4,0,1
+814,Reino Unido,Francés,18,15,Apartamento compartido,4,1,1
+815,Canada,Alemán,43,20,Apartamento compartido,3,5,0
+816,Australia,Italiano,27,10,Apartamento compartido,5,1,1
+817,Reino Unido,Francés,30,3,Hostal,5,1,1
+818,Reino Unido,Francés,24,19,Residencia estudiantil,3,3,0
+819,Malta,Francés,38,3,Hostal,2,2,0
+820,Australia,Italiano,23,22,Hotel,2,1,0
+821,Reino Unido,Alemán,26,14,Familia anfitriona,2,4,0
+822,Australia,Inglés,31,8,Familia anfitriona,4,0,1
+823,Canada,Francés,41,23,Apartamento compartido,5,0,1
+824,Estados Unidos,Italiano,42,4,Apartamento compartido,4,0,1
+825,Reino Unido,Italiano,40,20,Apartamento compartido,5,0,1
+826,Malta,Inglés,37,11,Residencia estudiantil,4,1,1
+827,Canada,Inglés,19,11,Hotel,4,0,1
+828,Australia,Italiano,43,11,Hotel,4,0,1
+829,Canada,Alemán,16,2,Hotel,3,0,0
+830,Reino Unido,Inglés,39,17,Hotel,4,0,1
+831,Australia,Italiano,22,9,Apartamento compartido,4,2,1
+832,Estados Unidos,Inglés,17,2,Familia anfitriona,2,3,0
+833,Canada,Alemán,39,24,Apartamento compartido,4,0,1
+834,Reino Unido,Francés,43,15,Hotel,4,0,1
+835,Malta,Inglés,20,16,Apartamento compartido,5,2,1
+836,Australia,Alemán,22,4,Hotel,4,0,1
+837,Canada,Italiano,19,8,Hostal,5,2,1
+838,Canada,Inglés,20,9,Familia anfitriona,4,1,1
+839,Estados Unidos,Inglés,39,5,Hostal,5,2,1
+840,Estados Unidos,Italiano,16,16,Residencia estudiantil,4,1,1
+841,Malta,Francés,16,13,Apartamento compartido,5,0,1
+842,Malta,Italiano,30,7,Residencia estudiantil,4,0,1
+843,Reino Unido,Inglés,35,20,Apartamento compartido,4,0,1
+844,Reino Unido,Italiano,34,17,Hostal,4,0,1
+845,Malta,Alemán,44,3,Hotel,4,0,1
+846,Malta,Italiano,25,5,Hotel,2,2,0
+847,Australia,Inglés,43,19,Apartamento compartido,2,0,0
+848,Estados Unidos,Italiano,33,12,Hotel,1,2,0
+849,Reino Unido,Francés,43,7,Hostal,5,2,1
+850,Estados Unidos,Italiano,18,9,Hotel,3,1,0
+851,Estados Unidos,Francés,26,6,Hostal,3,2,0
+852,Malta,Alemán,30,17,Residencia estudiantil,4,0,1
+853,Australia,Francés,42,16,Hostal,3,3,0
+854,Canada,Italiano,26,23,Familia anfitriona,4,0,1
+855,Australia,Inglés,32,3,Familia anfitriona,3,5,0
+856,Australia,Francés,32,21,Familia anfitriona,5,1,1
+857,Estados Unidos,Alemán,21,4,Apartamento compartido,5,0,1
+858,Australia,Francés,20,10,Apartamento compartido,5,2,1
+859,Reino Unido,Francés,23,5,Apartamento compartido,4,0,1
+860,Estados Unidos,Francés,17,21,Hostal,5,0,1
+861,Reino Unido,Alemán,31,22,Apartamento compartido,2,3,0
+862,Canada,Italiano,35,10,Residencia estudiantil,1,3,0
+863,Estados Unidos,Francés,39,12,Familia anfitriona,1,3,0
+864,Canada,Francés,27,10,Hostal,4,0,1
+865,Estados Unidos,Inglés,21,13,Familia anfitriona,4,0,1
+866,Malta,Alemán,16,11,Apartamento compartido,4,0,1
+867,Australia,Francés,19,22,Hostal,1,2,0
+868,Malta,Alemán,32,16,Hotel,4,0,1
+869,Canada,Francés,28,8,Residencia estudiantil,4,0,1
+870,Australia,Italiano,33,8,Apartamento compartido,4,0,1
+871,Estados Unidos,Italiano,20,8,Apartamento compartido,4,1,1
+872,Australia,Francés,39,13,Residencia estudiantil,3,2,0
+873,Reino Unido,Italiano,39,2,Residencia estudiantil,5,0,1
+874,Australia,Francés,42,12,Hotel,4,0,1
+875,Reino Unido,Italiano,18,10,Apartamento compartido,3,3,0
+876,Australia,Inglés,26,12,Apartamento compartido,3,1,0
+877,Reino Unido,Inglés,28,11,Familia anfitriona,4,0,1
+878,Canada,Inglés,19,15,Hostal,5,0,1
+879,Malta,Alemán,41,16,Hostal,4,0,1
+880,Estados Unidos,Alemán,42,17,Familia anfitriona,3,3,0
+881,Australia,Inglés,29,2,Hostal,5,0,1
+882,Malta,Alemán,37,18,Residencia estudiantil,4,1,1
+883,Estados Unidos,Italiano,26,12,Hostal,4,0,1
+884,Estados Unidos,Francés,42,19,Hostal,4,0,1
+885,Reino Unido,Francés,25,23,Familia anfitriona,3,1,0
+886,Canada,Francés,34,18,Hotel,4,2,1
+887,Canada,Inglés,33,17,Hostal,4,1,1
+888,Malta,Alemán,21,6,Hostal,5,0,1
+889,Canada,Italiano,42,15,Hotel,4,2,1
+890,Australia,Italiano,44,3,Familia anfitriona,4,1,1
+891,Canada,Inglés,30,6,Hotel,4,0,1
+892,Malta,Italiano,36,3,Familia anfitriona,5,0,1
+893,Canada,Italiano,25,1,Residencia estudiantil,5,0,1
+894,Australia,Italiano,20,13,Familia anfitriona,4,0,1
+895,Reino Unido,Italiano,41,21,Residencia estudiantil,4,0,1
+896,Malta,Alemán,44,14,Residencia estudiantil,4,0,1
+897,Reino Unido,Italiano,20,13,Familia anfitriona,4,0,1
+898,Reino Unido,Francés,25,4,Apartamento compartido,3,3,0
+899,Reino Unido,Inglés,43,7,Familia anfitriona,4,0,1
+900,Estados Unidos,Alemán,20,22,Hostal,3,0,0
+901,Estados Unidos,Italiano,18,10,Hostal,5,1,1
+902,Reino Unido,Alemán,38,7,Apartamento compartido,3,2,0
+903,Malta,Italiano,21,21,Residencia estudiantil,5,0,1
+904,Australia,Francés,19,15,Apartamento compartido,4,0,1
+905,Australia,Inglés,33,15,Hostal,4,0,1
+906,Canada,Italiano,43,4,Apartamento compartido,4,0,1
+907,Malta,Italiano,24,23,Familia anfitriona,2,1,0
+908,Estados Unidos,Italiano,32,23,Apartamento compartido,4,1,1
+909,Reino Unido,Italiano,44,6,Residencia estudiantil,2,1,0
+910,Canada,Inglés,28,24,Familia anfitriona,4,0,1
+911,Australia,Inglés,42,20,Hotel,4,0,1
+912,Estados Unidos,Francés,30,5,Hostal,5,2,1
+913,Estados Unidos,Inglés,35,20,Hostal,3,1,0
+914,Reino Unido,Italiano,32,12,Apartamento compartido,3,2,0
+915,Australia,Francés,28,1,Familia anfitriona,4,0,1
+916,Malta,Francés,31,8,Hotel,5,1,1
+917,Estados Unidos,Francés,37,1,Familia anfitriona,4,0,1
+918,Reino Unido,Italiano,19,5,Hostal,4,1,1
+919,Malta,Alemán,20,22,Familia anfitriona,4,1,1
+920,Australia,Italiano,20,6,Hotel,2,2,0
+921,Estados Unidos,Inglés,24,21,Apartamento compartido,5,1,1
+922,Malta,Inglés,32,3,Residencia estudiantil,4,1,1
+923,Malta,Italiano,28,15,Familia anfitriona,3,3,0
+924,Malta,Italiano,17,5,Residencia estudiantil,4,2,1
+925,Estados Unidos,Francés,28,24,Hostal,2,4,0
+926,Estados Unidos,Italiano,37,14,Apartamento compartido,5,0,1
+927,Canada,Francés,36,18,Apartamento compartido,3,0,0
+928,Australia,Inglés,42,16,Familia anfitriona,4,0,1
+929,Reino Unido,Francés,38,6,Apartamento compartido,3,2,0
+930,Malta,Italiano,34,24,Familia anfitriona,4,2,1
+931,Canada,Inglés,18,14,Familia anfitriona,5,1,1
+932,Reino Unido,Alemán,25,24,Residencia estudiantil,4,1,1
+933,Canada,Francés,17,8,Apartamento compartido,4,0,1
+934,Estados Unidos,Inglés,28,7,Familia anfitriona,5,3,1
+935,Malta,Francés,34,8,Residencia estudiantil,2,1,0
+936,Reino Unido,Inglés,41,13,Hotel,3,1,0
+937,Reino Unido,Inglés,32,6,Residencia estudiantil,3,2,0
+938,Reino Unido,Francés,36,18,Residencia estudiantil,5,1,1
+939,Reino Unido,Alemán,29,2,Familia anfitriona,4,2,1
+940,Reino Unido,Inglés,27,8,Hostal,4,0,1
+941,Canada,Inglés,36,11,Hostal,4,0,1
+942,Malta,Inglés,27,1,Hostal,3,2,0
+943,Estados Unidos,Alemán,26,22,Residencia estudiantil,3,3,0
+944,Estados Unidos,Alemán,22,6,Familia anfitriona,3,3,0
+945,Estados Unidos,Italiano,19,16,Apartamento compartido,4,1,1
+946,Estados Unidos,Francés,34,20,Residencia estudiantil,3,2,0
+947,Canada,Alemán,16,12,Residencia estudiantil,1,5,0
+948,Australia,Francés,43,11,Familia anfitriona,5,0,1
+949,Malta,Italiano,39,10,Hotel,5,0,1
+950,Reino Unido,Francés,44,3,Residencia estudiantil,3,1,0
+951,Australia,Alemán,18,13,Hotel,3,5,0
+952,Estados Unidos,Francés,28,3,Hotel,1,3,0
+953,Australia,Alemán,30,15,Hostal,4,0,1
+954,Malta,Francés,17,16,Familia anfitriona,5,1,1
+955,Reino Unido,Alemán,26,13,Hotel,2,5,0
+956,Reino Unido,Alemán,19,17,Familia anfitriona,3,3,0
+957,Malta,Francés,34,3,Hostal,5,0,1
+958,Malta,Italiano,44,20,Familia anfitriona,4,1,1
+959,Estados Unidos,Inglés,32,11,Residencia estudiantil,1,3,0
+960,Reino Unido,Italiano,18,21,Hotel,4,0,1
+961,Australia,Francés,43,19,Familia anfitriona,3,3,0
+962,Canada,Italiano,33,22,Apartamento compartido,4,1,1
+963,Canada,Alemán,23,11,Familia anfitriona,5,1,1
+964,Malta,Inglés,37,16,Hotel,5,0,1
+965,Estados Unidos,Francés,40,21,Hostal,4,2,1
+966,Canada,Francés,39,3,Hostal,5,0,1
+967,Reino Unido,Francés,41,22,Hotel,4,0,1
+968,Malta,Inglés,34,6,Residencia estudiantil,5,0,1
+969,Australia,Alemán,20,14,Residencia estudiantil,4,0,1
+970,Malta,Francés,22,24,Hostal,5,0,1
+971,Australia,Italiano,36,18,Hostal,5,1,1
+972,Malta,Francés,23,17,Hotel,2,2,0
+973,Malta,Francés,43,4,Residencia estudiantil,5,0,1
+974,Malta,Francés,20,23,Hostal,5,0,1
+975,Australia,Francés,32,15,Residencia estudiantil,5,2,1
+976,Australia,Alemán,20,11,Hostal,3,4,0
+977,Malta,Italiano,19,3,Familia anfitriona,5,1,1
+978,Canada,Alemán,37,3,Apartamento compartido,5,0,1
+979,Estados Unidos,Italiano,34,16,Familia anfitriona,3,4,0
+980,Estados Unidos,Francés,42,5,Hostal,5,0,1
+981,Estados Unidos,Inglés,36,21,Apartamento compartido,1,5,0
+982,Australia,Alemán,17,10,Apartamento compartido,2,3,0
+983,Australia,Inglés,26,19,Hostal,4,1,1
+984,Canada,Alemán,37,4,Hostal,4,0,1
+985,Estados Unidos,Francés,28,19,Residencia estudiantil,4,2,1
+986,Estados Unidos,Alemán,30,11,Hostal,1,3,0
+987,Malta,Francés,27,2,Hotel,5,0,1
+988,Australia,Alemán,37,10,Hostal,1,2,0
+989,Estados Unidos,Francés,36,11,Hotel,2,2,0
+990,Canada,Francés,37,20,Hostal,1,3,0
+991,Canada,Italiano,26,16,Residencia estudiantil,4,1,1
+992,Estados Unidos,Francés,22,19,Hotel,5,0,1
+993,Australia,Italiano,43,23,Familia anfitriona,4,0,1
+994,Canada,Francés,20,24,Hotel,5,0,1
+995,Malta,Inglés,32,11,Residencia estudiantil,1,4,0
+996,Canada,Francés,39,14,Hotel,4,0,1
+997,Reino Unido,Inglés,35,2,Hostal,4,1,1
+998,Reino Unido,Inglés,24,23,Hostal,4,0,1
+999,Australia,Francés,29,5,Residencia estudiantil,2,2,0
+1000,Estados Unidos,Inglés,41,5,Apartamento compartido,4,0,1
+1001,Australia,Italiano,27,19,Hostal,4,0,1
+1002,Australia,Alemán,21,21,Familia anfitriona,5,1,1
+1003,Australia,Francés,32,12,Residencia estudiantil,4,0,1
+1004,Australia,Inglés,34,18,Hotel,2,2,0
+1005,Malta,Francés,34,4,Hotel,4,0,1
+1006,Malta,Italiano,41,22,Familia anfitriona,3,2,0
+1007,Canada,Francés,31,17,Hostal,5,0,1
+1008,Reino Unido,Francés,27,10,Residencia estudiantil,4,1,1
+1009,Australia,Inglés,27,20,Familia anfitriona,3,1,0
+1010,Canada,Italiano,35,6,Hostal,5,0,1
+1011,Reino Unido,Alemán,21,14,Residencia estudiantil,4,0,1
+1012,Estados Unidos,Alemán,38,11,Hotel,2,2,0
+1013,Malta,Inglés,41,11,Residencia estudiantil,4,0,1
+1014,Reino Unido,Francés,19,18,Apartamento compartido,3,3,0
+1015,Estados Unidos,Inglés,21,23,Residencia estudiantil,5,0,1
+1016,Reino Unido,Inglés,26,22,Apartamento compartido,5,0,1
+1017,Malta,Inglés,16,18,Residencia estudiantil,5,0,1
+1018,Malta,Francés,39,24,Apartamento compartido,4,0,1
+1019,Canada,Italiano,38,23,Hotel,4,1,1
+1020,Australia,Inglés,30,11,Hostal,5,0,1
+1021,Reino Unido,Francés,42,21,Apartamento compartido,2,0,0
+1022,Reino Unido,Italiano,26,12,Apartamento compartido,4,1,1
+1023,Estados Unidos,Inglés,40,5,Hotel,4,0,1
+1024,Malta,Alemán,34,23,Apartamento compartido,2,2,0
+1025,Reino Unido,Italiano,33,9,Familia anfitriona,4,0,1
+1026,Malta,Inglés,32,9,Hotel,5,0,1
+1027,Reino Unido,Italiano,34,22,Familia anfitriona,5,0,1
+1028,Canada,Italiano,36,10,Hotel,2,2,0
+1029,Australia,Italiano,29,22,Apartamento compartido,2,0,0
+1030,Reino Unido,Italiano,42,19,Familia anfitriona,3,5,0
+1031,Malta,Italiano,33,1,Apartamento compartido,5,2,1
+1032,Canada,Italiano,43,7,Hotel,2,1,0
+1033,Reino Unido,Inglés,34,4,Apartamento compartido,4,0,1
+1034,Estados Unidos,Alemán,30,1,Familia anfitriona,2,2,0
+1035,Australia,Francés,30,15,Familia anfitriona,4,1,1
+1036,Reino Unido,Italiano,19,8,Apartamento compartido,4,0,1
+1037,Canada,Francés,22,12,Residencia estudiantil,5,1,1
+1038,Estados Unidos,Inglés,28,22,Hotel,3,6,0
+1039,Canada,Italiano,18,22,Hotel,4,1,1
+1040,Canada,Alemán,31,18,Apartamento compartido,3,4,0
+1041,Estados Unidos,Francés,24,15,Residencia estudiantil,4,0,1
+1042,Canada,Italiano,23,17,Familia anfitriona,5,0,1
+1043,Estados Unidos,Inglés,35,14,Hostal,2,2,0
+1044,Reino Unido,Alemán,28,14,Hostal,5,0,1
+1045,Estados Unidos,Francés,32,18,Apartamento compartido,4,0,1
+1046,Estados Unidos,Francés,32,20,Residencia estudiantil,2,2,0
+1047,Australia,Italiano,32,18,Residencia estudiantil,4,0,1
+1048,Estados Unidos,Alemán,16,16,Hotel,3,3,0
+1049,Estados Unidos,Alemán,23,1,Familia anfitriona,4,0,1
+1050,Reino Unido,Alemán,34,23,Residencia estudiantil,5,0,1
+1051,Australia,Alemán,21,11,Hostal,2,1,0
+1052,Malta,Inglés,18,15,Familia anfitriona,4,0,1
+1053,Reino Unido,Alemán,42,12,Familia anfitriona,5,0,1
+1054,Reino Unido,Francés,20,8,Apartamento compartido,5,0,1
+1055,Malta,Francés,28,22,Residencia estudiantil,4,1,1
+1056,Estados Unidos,Inglés,30,20,Apartamento compartido,5,0,1
+1057,Canada,Francés,29,6,Residencia estudiantil,4,0,1
+1058,Australia,Francés,44,3,Hotel,4,2,1
+1059,Canada,Alemán,38,24,Apartamento compartido,5,0,1
+1060,Malta,Francés,31,13,Apartamento compartido,4,0,1
+1061,Reino Unido,Inglés,33,13,Hostal,4,0,1
+1062,Reino Unido,Alemán,37,2,Apartamento compartido,4,0,1
+1063,Australia,Italiano,44,5,Residencia estudiantil,5,1,1
+1064,Reino Unido,Alemán,37,17,Hostal,5,1,1
+1065,Reino Unido,Inglés,26,6,Apartamento compartido,4,2,1
+1066,Australia,Alemán,18,2,Apartamento compartido,3,1,0
+1067,Australia,Alemán,37,4,Hotel,4,0,1
+1068,Malta,Inglés,25,22,Apartamento compartido,4,0,1
+1069,Reino Unido,Alemán,25,11,Familia anfitriona,3,3,0
+1070,Reino Unido,Inglés,36,8,Hostal,5,1,1
+1071,Malta,Inglés,31,12,Familia anfitriona,4,1,1
+1072,Estados Unidos,Italiano,27,8,Hostal,3,2,0
+1073,Estados Unidos,Francés,17,11,Hotel,2,4,0
+1074,Estados Unidos,Francés,24,22,Apartamento compartido,3,1,0
+1075,Malta,Alemán,39,20,Apartamento compartido,5,1,1
+1076,Reino Unido,Alemán,18,8,Apartamento compartido,3,2,0
+1077,Malta,Italiano,39,8,Hostal,3,1,0
+1078,Malta,Italiano,40,17,Apartamento compartido,4,0,1
+1079,Estados Unidos,Italiano,30,20,Familia anfitriona,3,1,0
+1080,Canada,Inglés,18,20,Apartamento compartido,1,4,0
+1081,Reino Unido,Italiano,34,23,Hotel,3,3,0
+1082,Estados Unidos,Italiano,33,16,Familia anfitriona,4,0,1
+1083,Canada,Alemán,23,14,Apartamento compartido,4,0,1
+1084,Canada,Italiano,41,11,Apartamento compartido,4,0,1
+1085,Australia,Inglés,32,7,Residencia estudiantil,4,1,1
+1086,Reino Unido,Inglés,23,16,Hostal,5,1,1
+1087,Canada,Alemán,22,13,Familia anfitriona,4,0,1
+1088,Estados Unidos,Italiano,22,15,Residencia estudiantil,3,2,0
+1089,Australia,Italiano,18,24,Hotel,3,2,0
+1090,Reino Unido,Inglés,16,16,Hostal,4,0,1
+1091,Malta,Italiano,19,21,Familia anfitriona,5,1,1
+1092,Estados Unidos,Italiano,40,23,Apartamento compartido,3,3,0
+1093,Canada,Italiano,20,24,Familia anfitriona,4,0,1
+1094,Canada,Francés,16,9,Apartamento compartido,1,4,0
+1095,Estados Unidos,Alemán,30,3,Hostal,4,0,1
+1096,Canada,Francés,20,19,Apartamento compartido,5,0,1
+1097,Australia,Alemán,28,20,Hotel,3,1,0
+1098,Reino Unido,Inglés,23,5,Apartamento compartido,4,0,1
+1099,Australia,Italiano,23,10,Hotel,3,3,0
+1100,Canada,Alemán,20,17,Hostal,4,2,1
+1101,Malta,Francés,43,15,Hostal,2,1,0
+1102,Reino Unido,Italiano,24,23,Familia anfitriona,5,1,1
+1103,Reino Unido,Inglés,16,8,Hotel,3,0,0
+1104,Estados Unidos,Alemán,19,15,Hotel,5,1,1
+1105,Estados Unidos,Alemán,18,21,Residencia estudiantil,4,0,1
+1106,Malta,Alemán,17,14,Residencia estudiantil,4,0,1
+1107,Reino Unido,Italiano,23,20,Residencia estudiantil,3,0,0
+1108,Malta,Francés,38,7,Apartamento compartido,5,0,1
+1109,Estados Unidos,Francés,24,21,Residencia estudiantil,2,5,0
+1110,Estados Unidos,Alemán,17,23,Hotel,3,4,0
+1111,Reino Unido,Inglés,29,12,Apartamento compartido,4,1,1
+1112,Australia,Inglés,29,17,Hostal,2,1,0
+1113,Canada,Francés,19,17,Familia anfitriona,3,2,0
+1114,Estados Unidos,Inglés,21,10,Residencia estudiantil,5,0,1
+1115,Estados Unidos,Francés,26,19,Hostal,5,0,1
+1116,Australia,Alemán,18,14,Hotel,4,0,1
+1117,Australia,Francés,23,11,Familia anfitriona,5,0,1
+1118,Malta,Francés,18,2,Hostal,4,0,1
+1119,Malta,Alemán,29,18,Familia anfitriona,3,0,0
+1120,Canada,Inglés,43,7,Residencia estudiantil,4,0,1
+1121,Canada,Francés,28,12,Hotel,4,1,1
+1122,Reino Unido,Francés,28,2,Familia anfitriona,5,1,1
+1123,Malta,Alemán,17,20,Hostal,3,1,0
+1124,Estados Unidos,Inglés,28,18,Residencia estudiantil,4,0,1
+1125,Malta,Francés,44,6,Residencia estudiantil,2,3,0
+1126,Estados Unidos,Alemán,34,24,Hostal,2,1,0
+1127,Australia,Francés,42,10,Hostal,1,1,0
+1128,Malta,Italiano,21,20,Familia anfitriona,5,1,1
+1129,Australia,Alemán,31,15,Apartamento compartido,5,2,1
+1130,Canada,Inglés,17,5,Residencia estudiantil,5,1,1
+1131,Canada,Inglés,23,20,Familia anfitriona,4,1,1
+1132,Reino Unido,Inglés,32,3,Hostal,3,5,0
+1133,Malta,Inglés,38,5,Familia anfitriona,3,1,0
+1134,Australia,Francés,17,8,Hostal,3,4,0
+1135,Estados Unidos,Francés,25,8,Hotel,4,0,1
+1136,Canada,Inglés,43,8,Hostal,5,1,1
+1137,Canada,Inglés,31,12,Hostal,4,0,1
+1138,Estados Unidos,Inglés,21,24,Hostal,2,2,0
+1139,Australia,Francés,43,23,Apartamento compartido,1,2,0
+1140,Australia,Inglés,17,8,Hostal,2,1,0
+1141,Malta,Inglés,17,11,Residencia estudiantil,4,1,1
+1142,Malta,Italiano,41,14,Residencia estudiantil,5,1,1
+1143,Reino Unido,Italiano,28,8,Familia anfitriona,4,1,1
+1144,Canada,Inglés,39,24,Apartamento compartido,5,0,1
+1145,Malta,Alemán,30,10,Familia anfitriona,4,0,1
+1146,Australia,Inglés,43,7,Residencia estudiantil,4,0,1
+1147,Estados Unidos,Italiano,17,17,Residencia estudiantil,2,6,0
+1148,Australia,Alemán,22,4,Hotel,5,0,1
+1149,Canada,Alemán,18,13,Hostal,5,0,1
+1150,Australia,Inglés,23,4,Residencia estudiantil,3,1,0
+1151,Reino Unido,Italiano,38,5,Familia anfitriona,4,0,1
+1152,Canada,Italiano,29,22,Familia anfitriona,4,0,1
+1153,Estados Unidos,Alemán,39,4,Hostal,4,0,1
+1154,Reino Unido,Inglés,38,18,Hostal,5,1,1
+1155,Canada,Francés,42,6,Hotel,4,1,1
+1156,Estados Unidos,Francés,37,24,Apartamento compartido,4,0,1
+1157,Reino Unido,Italiano,44,24,Familia anfitriona,2,2,0
+1158,Reino Unido,Francés,22,23,Hostal,2,5,0
+1159,Canada,Italiano,36,22,Familia anfitriona,3,1,0
+1160,Malta,Italiano,22,2,Hostal,1,1,0
+1161,Reino Unido,Italiano,16,23,Residencia estudiantil,4,0,1
+1162,Reino Unido,Francés,32,11,Familia anfitriona,4,0,1
+1163,Estados Unidos,Italiano,24,14,Residencia estudiantil,2,3,0
+1164,Australia,Alemán,36,5,Familia anfitriona,5,1,1
+1165,Canada,Inglés,28,6,Apartamento compartido,3,2,0
+1166,Canada,Inglés,36,10,Hotel,3,5,0
+1167,Malta,Italiano,34,8,Residencia estudiantil,3,1,0
+1168,Malta,Inglés,36,14,Hostal,4,0,1
+1169,Canada,Francés,34,24,Apartamento compartido,3,2,0
+1170,Malta,Francés,40,3,Familia anfitriona,4,1,1
+1171,Estados Unidos,Inglés,40,12,Residencia estudiantil,4,2,1
+1172,Canada,Francés,37,16,Familia anfitriona,5,1,1
+1173,Malta,Inglés,32,23,Familia anfitriona,2,2,0
+1174,Canada,Inglés,38,17,Familia anfitriona,2,3,0
+1175,Australia,Inglés,38,1,Hotel,2,1,0
+1176,Reino Unido,Italiano,25,23,Hotel,4,0,1
+1177,Canada,Inglés,25,10,Hostal,2,1,0
+1178,Reino Unido,Italiano,19,23,Residencia estudiantil,5,0,1
+1179,Malta,Inglés,23,10,Apartamento compartido,4,1,1
+1180,Reino Unido,Inglés,37,21,Apartamento compartido,4,1,1
+1181,Canada,Inglés,35,24,Apartamento compartido,4,1,1
+1182,Australia,Francés,35,2,Familia anfitriona,3,2,0
+1183,Malta,Italiano,33,9,Hotel,3,1,0
+1184,Canada,Italiano,29,22,Residencia estudiantil,3,4,0
+1185,Malta,Inglés,33,13,Familia anfitriona,4,1,1
+1186,Estados Unidos,Inglés,43,16,Hotel,3,1,0
+1187,Reino Unido,Francés,29,18,Hotel,2,3,0
+1188,Estados Unidos,Francés,35,19,Residencia estudiantil,5,0,1
+1189,Canada,Francés,36,12,Residencia estudiantil,1,3,0
+1190,Australia,Italiano,39,8,Residencia estudiantil,5,0,1
+1191,Malta,Italiano,30,17,Familia anfitriona,5,0,1
+1192,Reino Unido,Italiano,37,15,Hostal,3,4,0
+1193,Malta,Inglés,19,10,Residencia estudiantil,2,4,0
+1194,Canada,Italiano,28,15,Hostal,2,1,0
+1195,Malta,Alemán,42,15,Familia anfitriona,4,3,1
+1196,Reino Unido,Alemán,38,23,Hostal,4,0,1
+1197,Canada,Francés,23,7,Apartamento compartido,5,0,1
+1198,Malta,Italiano,33,13,Hostal,5,0,1
+1199,Australia,Alemán,27,17,Residencia estudiantil,4,0,1
+1200,Canada,Francés,38,9,Familia anfitriona,3,0,0
+1201,Canada,Italiano,29,8,Residencia estudiantil,3,3,0
+1202,Australia,Inglés,17,20,Apartamento compartido,5,0,1
+1203,Estados Unidos,Alemán,33,21,Residencia estudiantil,3,5,0
+1204,Reino Unido,Inglés,39,18,Residencia estudiantil,2,2,0
+1205,Estados Unidos,Italiano,17,13,Residencia estudiantil,4,1,1
+1206,Malta,Alemán,26,16,Hotel,4,0,1
+1207,Australia,Italiano,24,9,Apartamento compartido,5,0,1
+1208,Estados Unidos,Inglés,27,12,Residencia estudiantil,4,1,1
+1209,Canada,Alemán,32,12,Residencia estudiantil,2,2,0
+1210,Malta,Inglés,30,6,Residencia estudiantil,5,0,1
+1211,Malta,Italiano,40,19,Familia anfitriona,3,4,0
+1212,Estados Unidos,Italiano,32,7,Hotel,3,4,0
+1213,Estados Unidos,Inglés,41,3,Familia anfitriona,4,1,1
+1214,Australia,Alemán,44,16,Hotel,2,1,0
+1215,Reino Unido,Inglés,41,18,Residencia estudiantil,4,1,1
+1216,Estados Unidos,Italiano,33,16,Apartamento compartido,2,5,0
+1217,Estados Unidos,Inglés,37,23,Hostal,4,0,1
+1218,Canada,Italiano,21,7,Hostal,4,0,1
+1219,Malta,Inglés,32,4,Residencia estudiantil,5,4,1
+1220,Reino Unido,Alemán,38,8,Familia anfitriona,5,1,1
+1221,Canada,Alemán,39,13,Apartamento compartido,3,4,0
+1222,Australia,Inglés,33,13,Hotel,4,1,1
+1223,Australia,Inglés,23,17,Residencia estudiantil,4,1,1
+1224,Estados Unidos,Alemán,24,17,Apartamento compartido,3,3,0
+1225,Estados Unidos,Italiano,21,5,Apartamento compartido,5,0,1
+1226,Australia,Alemán,20,6,Hotel,4,0,1
+1227,Estados Unidos,Italiano,27,19,Apartamento compartido,3,2,0
+1228,Reino Unido,Inglés,40,13,Familia anfitriona,4,1,1
+1229,Estados Unidos,Inglés,44,14,Familia anfitriona,2,3,0
+1230,Malta,Italiano,43,22,Familia anfitriona,4,0,1
+1231,Estados Unidos,Inglés,26,4,Apartamento compartido,2,3,0
+1232,Canada,Italiano,40,7,Familia anfitriona,5,0,1
+1233,Reino Unido,Francés,16,8,Hotel,5,0,1
+1234,Canada,Alemán,26,13,Apartamento compartido,4,0,1
+1235,Canada,Francés,34,6,Hostal,4,1,1
+1236,Malta,Italiano,24,6,Apartamento compartido,5,1,1
+1237,Reino Unido,Alemán,42,24,Hotel,4,1,1
+1238,Reino Unido,Italiano,17,21,Hostal,3,5,0
+1239,Reino Unido,Alemán,27,3,Apartamento compartido,4,0,1
+1240,Reino Unido,Alemán,19,3,Familia anfitriona,5,0,1
+1241,Reino Unido,Alemán,19,13,Residencia estudiantil,4,0,1
+1242,Malta,Alemán,33,22,Residencia estudiantil,4,1,1
+1243,Estados Unidos,Italiano,30,2,Familia anfitriona,5,0,1
+1244,Canada,Alemán,34,16,Residencia estudiantil,5,0,1
+1245,Reino Unido,Alemán,28,22,Residencia estudiantil,5,0,1
+1246,Estados Unidos,Francés,34,6,Familia anfitriona,2,3,0
+1247,Estados Unidos,Inglés,32,8,Familia anfitriona,4,0,1
+1248,Canada,Inglés,21,23,Apartamento compartido,4,0,1
+1249,Malta,Francés,31,8,Apartamento compartido,5,0,1
+1250,Australia,Francés,39,6,Familia anfitriona,4,1,1
+1251,Australia,Italiano,27,14,Hotel,3,2,0
+1252,Estados Unidos,Italiano,34,3,Residencia estudiantil,5,3,1
+1253,Canada,Italiano,20,10,Apartamento compartido,4,3,1
+1254,Australia,Francés,32,3,Residencia estudiantil,2,6,0
+1255,Estados Unidos,Francés,41,12,Hostal,4,0,1
+1256,Malta,Alemán,38,17,Familia anfitriona,3,1,0
+1257,Australia,Italiano,41,5,Hotel,3,6,0
+1258,Estados Unidos,Italiano,44,20,Hostal,1,1,0
+1259,Estados Unidos,Italiano,16,9,Hostal,4,0,1
+1260,Reino Unido,Inglés,43,21,Hostal,4,0,1
+1261,Malta,Alemán,42,20,Familia anfitriona,4,2,1
+1262,Reino Unido,Italiano,40,7,Apartamento compartido,4,0,1
+1263,Canada,Italiano,39,22,Familia anfitriona,5,0,1
+1264,Reino Unido,Italiano,38,4,Apartamento compartido,3,4,0
+1265,Reino Unido,Inglés,25,13,Hostal,2,4,0
+1266,Australia,Inglés,30,13,Hostal,5,1,1
+1267,Estados Unidos,Francés,38,10,Hotel,3,2,0
+1268,Malta,Alemán,36,18,Apartamento compartido,5,0,1
+1269,Reino Unido,Francés,36,17,Hostal,5,0,1
+1270,Malta,Alemán,26,20,Residencia estudiantil,4,1,1
+1271,Reino Unido,Inglés,28,20,Hotel,5,1,1
+1272,Canada,Italiano,20,13,Familia anfitriona,2,4,0
+1273,Reino Unido,Francés,16,17,Hotel,3,1,0
+1274,Australia,Italiano,39,22,Residencia estudiantil,4,0,1
+1275,Estados Unidos,Francés,27,4,Apartamento compartido,4,1,1
+1276,Canada,Inglés,26,1,Familia anfitriona,5,0,1
+1277,Reino Unido,Inglés,32,1,Familia anfitriona,2,2,0
+1278,Malta,Inglés,19,15,Apartamento compartido,4,0,1
+1279,Canada,Francés,30,13,Hotel,4,1,1
+1280,Canada,Alemán,40,17,Hostal,4,0,1
+1281,Reino Unido,Francés,24,24,Hotel,3,4,0
+1282,Canada,Alemán,36,8,Residencia estudiantil,4,0,1
+1283,Malta,Francés,35,18,Hostal,5,0,1
+1284,Canada,Francés,34,13,Hotel,3,1,0
+1285,Malta,Inglés,34,23,Apartamento compartido,5,0,1
+1286,Reino Unido,Italiano,27,14,Residencia estudiantil,4,0,1
+1287,Estados Unidos,Italiano,20,8,Residencia estudiantil,5,1,1
+1288,Canada,Alemán,25,8,Residencia estudiantil,4,1,1
+1289,Estados Unidos,Italiano,32,15,Hostal,3,2,0
+1290,Malta,Francés,20,13,Familia anfitriona,4,0,1
+1291,Canada,Francés,37,7,Hostal,5,0,1
+1292,Australia,Inglés,31,5,Hotel,4,2,1
+1293,Estados Unidos,Inglés,22,17,Familia anfitriona,5,2,1
+1294,Canada,Italiano,43,16,Hotel,4,1,1
+1295,Estados Unidos,Alemán,24,23,Familia anfitriona,2,2,0
+1296,Canada,Italiano,18,2,Hostal,4,0,1
+1297,Reino Unido,Italiano,30,22,Residencia estudiantil,5,0,1
+1298,Estados Unidos,Italiano,31,18,Apartamento compartido,3,5,0
+1299,Australia,Italiano,33,17,Residencia estudiantil,5,0,1
+1300,Australia,Francés,29,7,Hostal,5,0,1
+1301,Malta,Alemán,18,13,Familia anfitriona,4,1,1
+1302,Canada,Francés,27,18,Residencia estudiantil,2,2,0
+1303,Estados Unidos,Alemán,24,14,Hostal,4,1,1
+1304,Malta,Inglés,43,18,Hotel,3,2,0
+1305,Estados Unidos,Italiano,22,13,Apartamento compartido,5,1,1
+1306,Canada,Francés,24,11,Residencia estudiantil,4,0,1
+1307,Australia,Alemán,28,21,Familia anfitriona,4,0,1
+1308,Reino Unido,Inglés,33,21,Hotel,5,1,1
+1309,Australia,Inglés,20,16,Hostal,4,1,1
+1310,Malta,Italiano,28,23,Apartamento compartido,4,0,1
+1311,Reino Unido,Alemán,19,17,Familia anfitriona,4,1,1
+1312,Malta,Francés,17,8,Hostal,4,0,1
+1313,Canada,Italiano,31,19,Hostal,4,0,1
+1314,Reino Unido,Francés,24,20,Residencia estudiantil,5,2,1
+1315,Malta,Inglés,24,15,Residencia estudiantil,4,0,1
+1316,Canada,Francés,21,9,Familia anfitriona,4,1,1
+1317,Australia,Francés,26,20,Hostal,4,1,1
+1318,Canada,Italiano,37,10,Residencia estudiantil,3,2,0
+1319,Estados Unidos,Francés,39,12,Apartamento compartido,3,4,0
+1320,Canada,Italiano,37,21,Apartamento compartido,5,0,1
+1321,Canada,Inglés,16,23,Hostal,4,2,1
+1322,Estados Unidos,Italiano,19,20,Residencia estudiantil,4,3,1
+1323,Malta,Italiano,28,1,Familia anfitriona,4,1,1
+1324,Malta,Alemán,38,20,Familia anfitriona,1,2,0
+1325,Canada,Francés,28,9,Familia anfitriona,4,0,1
+1326,Estados Unidos,Inglés,28,22,Apartamento compartido,4,2,1
+1327,Estados Unidos,Italiano,17,15,Residencia estudiantil,4,1,1
+1328,Australia,Inglés,24,1,Residencia estudiantil,4,0,1
+1329,Malta,Alemán,39,12,Apartamento compartido,2,2,0
+1330,Reino Unido,Francés,23,3,Familia anfitriona,3,2,0
+1331,Malta,Italiano,22,11,Familia anfitriona,5,2,1
+1332,Malta,Francés,19,2,Hostal,4,1,1
+1333,Australia,Alemán,33,16,Hotel,4,0,1
+1334,Reino Unido,Alemán,18,9,Residencia estudiantil,2,1,0
+1335,Australia,Inglés,43,15,Residencia estudiantil,1,2,0
+1336,Reino Unido,Italiano,21,12,Residencia estudiantil,4,1,1
+1337,Canada,Inglés,27,1,Hotel,4,0,1
+1338,Reino Unido,Alemán,27,13,Hostal,4,0,1
+1339,Australia,Francés,36,14,Hotel,3,5,0
+1340,Malta,Inglés,43,8,Familia anfitriona,4,0,1
+1341,Reino Unido,Inglés,23,8,Familia anfitriona,3,5,0
+1342,Reino Unido,Francés,37,12,Residencia estudiantil,3,0,0
+1343,Estados Unidos,Inglés,37,1,Apartamento compartido,4,0,1
+1344,Malta,Francés,16,11,Residencia estudiantil,3,2,0
+1345,Canada,Italiano,19,8,Apartamento compartido,3,3,0
+1346,Australia,Francés,36,10,Hotel,4,0,1
+1347,Canada,Italiano,43,19,Familia anfitriona,4,0,1
+1348,Malta,Francés,26,11,Apartamento compartido,5,0,1
+1349,Reino Unido,Alemán,18,7,Hotel,4,0,1
+1350,Reino Unido,Alemán,28,11,Familia anfitriona,2,2,0
+1351,Malta,Italiano,40,17,Apartamento compartido,3,2,0
+1352,Reino Unido,Italiano,32,1,Residencia estudiantil,5,0,1
+1353,Reino Unido,Alemán,37,21,Residencia estudiantil,4,0,1
+1354,Reino Unido,Italiano,37,21,Residencia estudiantil,4,0,1
+1355,Australia,Francés,25,8,Hotel,1,2,0
+1356,Australia,Francés,36,23,Residencia estudiantil,4,1,1
+1357,Estados Unidos,Alemán,27,24,Hostal,1,4,0
+1358,Canada,Inglés,30,6,Familia anfitriona,4,1,1
+1359,Malta,Francés,36,22,Hotel,5,2,1
+1360,Malta,Italiano,25,18,Residencia estudiantil,5,1,1
+1361,Malta,Inglés,29,6,Familia anfitriona,4,0,1
+1362,Estados Unidos,Inglés,28,5,Apartamento compartido,4,0,1
+1363,Australia,Francés,20,13,Residencia estudiantil,5,1,1
+1364,Estados Unidos,Francés,21,19,Familia anfitriona,4,0,1
+1365,Malta,Inglés,39,22,Hostal,2,2,0
+1366,Canada,Inglés,17,8,Apartamento compartido,4,0,1
+1367,Reino Unido,Alemán,37,9,Hostal,3,2,0
+1368,Australia,Italiano,32,17,Familia anfitriona,4,2,1
+1369,Australia,Alemán,19,3,Hostal,4,0,1
+1370,Estados Unidos,Francés,29,19,Familia anfitriona,4,0,1
+1371,Australia,Alemán,25,11,Familia anfitriona,4,1,1
+1372,Malta,Alemán,18,24,Hostal,3,2,0
+1373,Malta,Alemán,40,17,Familia anfitriona,4,0,1
+1374,Estados Unidos,Alemán,18,21,Residencia estudiantil,5,1,1
+1375,Malta,Italiano,30,19,Familia anfitriona,4,0,1
+1376,Canada,Italiano,21,2,Hotel,3,1,0
+1377,Estados Unidos,Inglés,32,8,Familia anfitriona,5,1,1
+1378,Canada,Francés,27,19,Hotel,5,4,1
+1379,Reino Unido,Alemán,37,7,Familia anfitriona,3,4,0
+1380,Canada,Inglés,35,17,Familia anfitriona,1,5,0
+1381,Reino Unido,Inglés,39,6,Hostal,4,0,1
+1382,Reino Unido,Inglés,44,19,Residencia estudiantil,5,0,1
+1383,Canada,Italiano,26,24,Residencia estudiantil,5,1,1
+1384,Estados Unidos,Alemán,40,6,Apartamento compartido,5,1,1
+1385,Malta,Alemán,19,2,Hostal,4,0,1
+1386,Malta,Francés,41,6,Hostal,4,0,1
+1387,Reino Unido,Alemán,43,23,Residencia estudiantil,1,1,0
+1388,Reino Unido,Alemán,41,5,Hostal,3,1,0
+1389,Estados Unidos,Inglés,21,19,Residencia estudiantil,4,0,1
+1390,Australia,Francés,16,20,Hostal,4,0,1
+1391,Canada,Alemán,35,4,Familia anfitriona,4,1,1
+1392,Reino Unido,Italiano,38,22,Residencia estudiantil,4,0,1
+1393,Malta,Alemán,43,17,Residencia estudiantil,3,3,0
+1394,Estados Unidos,Inglés,31,11,Hotel,4,1,1
+1395,Canada,Italiano,30,4,Hostal,2,3,0
+1396,Estados Unidos,Inglés,32,13,Hostal,4,1,1
+1397,Canada,Alemán,23,20,Residencia estudiantil,5,0,1
+1398,Canada,Italiano,43,17,Familia anfitriona,4,0,1
+1399,Reino Unido,Francés,41,9,Familia anfitriona,5,0,1
+1400,Estados Unidos,Francés,27,4,Familia anfitriona,3,0,0
+1401,Estados Unidos,Italiano,42,23,Hostal,4,1,1
+1402,Malta,Italiano,37,14,Hotel,3,2,0
+1403,Malta,Inglés,36,19,Residencia estudiantil,4,0,1
+1404,Reino Unido,Italiano,25,3,Apartamento compartido,5,0,1
+1405,Reino Unido,Inglés,42,14,Hotel,4,0,1
+1406,Australia,Alemán,30,8,Apartamento compartido,5,1,1
+1407,Malta,Inglés,24,24,Hotel,3,1,0
+1408,Canada,Italiano,17,1,Familia anfitriona,5,0,1
+1409,Estados Unidos,Italiano,20,10,Hostal,2,3,0
+1410,Reino Unido,Alemán,21,18,Apartamento compartido,5,0,1
+1411,Estados Unidos,Italiano,22,16,Hotel,3,4,0
+1412,Estados Unidos,Italiano,36,8,Hostal,3,2,0
+1413,Australia,Francés,40,1,Apartamento compartido,4,0,1
+1414,Malta,Francés,16,12,Residencia estudiantil,5,0,1
+1415,Reino Unido,Alemán,38,8,Hotel,1,2,0
+1416,Estados Unidos,Inglés,41,24,Residencia estudiantil,4,0,1
+1417,Reino Unido,Francés,22,16,Familia anfitriona,5,0,1
+1418,Canada,Inglés,35,18,Residencia estudiantil,4,0,1
+1419,Australia,Italiano,40,4,Residencia estudiantil,3,0,0
+1420,Canada,Francés,27,6,Hotel,4,0,1
+1421,Reino Unido,Alemán,31,12,Familia anfitriona,4,1,1
+1422,Reino Unido,Alemán,31,9,Residencia estudiantil,5,2,1
+1423,Malta,Alemán,26,15,Hostal,5,1,1
+1424,Estados Unidos,Francés,36,16,Apartamento compartido,4,0,1
+1425,Estados Unidos,Inglés,19,24,Residencia estudiantil,5,0,1
+1426,Canada,Italiano,28,12,Familia anfitriona,4,1,1
+1427,Australia,Inglés,22,24,Residencia estudiantil,2,1,0
+1428,Estados Unidos,Inglés,19,23,Apartamento compartido,3,3,0
+1429,Malta,Italiano,30,14,Familia anfitriona,4,1,1
+1430,Canada,Italiano,34,13,Hotel,3,3,0
+1431,Canada,Francés,24,2,Familia anfitriona,5,0,1
+1432,Malta,Francés,26,3,Hotel,5,0,1
+1433,Australia,Francés,23,24,Familia anfitriona,3,3,0
+1434,Malta,Francés,16,22,Apartamento compartido,4,0,1
+1435,Australia,Francés,38,10,Apartamento compartido,4,0,1
+1436,Malta,Italiano,40,9,Familia anfitriona,5,0,1
+1437,Malta,Inglés,39,20,Residencia estudiantil,5,0,1
+1438,Reino Unido,Francés,23,8,Apartamento compartido,4,0,1
+1439,Canada,Francés,28,10,Hotel,5,0,1
+1440,Malta,Inglés,37,19,Hotel,4,2,1
+1441,Malta,Francés,42,3,Hostal,4,0,1
+1442,Estados Unidos,Inglés,19,24,Hotel,2,3,0
+1443,Canada,Inglés,23,5,Hostal,2,2,0
+1444,Estados Unidos,Italiano,18,3,Familia anfitriona,4,0,1
+1445,Canada,Alemán,44,16,Familia anfitriona,3,2,0
+1446,Estados Unidos,Italiano,24,17,Familia anfitriona,1,1,0
+1447,Malta,Alemán,44,15,Residencia estudiantil,4,1,1
+1448,Malta,Alemán,17,3,Residencia estudiantil,1,0,0
+1449,Reino Unido,Alemán,17,12,Hostal,4,1,1
+1450,Estados Unidos,Francés,43,9,Hotel,4,1,1
+1451,Australia,Italiano,28,21,Hotel,5,0,1
+1452,Reino Unido,Alemán,30,12,Familia anfitriona,4,1,1
+1453,Estados Unidos,Inglés,43,15,Apartamento compartido,2,2,0
+1454,Estados Unidos,Francés,38,2,Residencia estudiantil,4,2,1
+1455,Reino Unido,Italiano,27,23,Residencia estudiantil,5,2,1
+1456,Malta,Alemán,41,18,Familia anfitriona,5,0,1
+1457,Estados Unidos,Inglés,19,20,Residencia estudiantil,4,0,1
+1458,Malta,Italiano,41,12,Familia anfitriona,3,3,0
+1459,Reino Unido,Italiano,23,23,Hostal,5,0,1
+1460,Malta,Francés,24,4,Hotel,3,1,0
+1461,Canada,Italiano,38,23,Apartamento compartido,4,0,1
+1462,Australia,Francés,20,16,Hotel,4,0,1
+1463,Estados Unidos,Alemán,39,23,Hotel,1,1,0
+1464,Australia,Francés,35,16,Hostal,3,2,0
+1465,Malta,Inglés,33,1,Residencia estudiantil,3,1,0
+1466,Estados Unidos,Francés,26,22,Apartamento compartido,4,0,1
+1467,Malta,Inglés,30,2,Residencia estudiantil,5,0,1
+1468,Canada,Francés,43,3,Hotel,3,2,0
+1469,Reino Unido,Italiano,37,21,Familia anfitriona,5,0,1
+1470,Estados Unidos,Alemán,24,20,Hotel,2,4,0
+1471,Canada,Inglés,32,17,Residencia estudiantil,4,0,1
+1472,Canada,Francés,42,20,Hotel,2,1,0
+1473,Estados Unidos,Francés,41,22,Familia anfitriona,5,0,1
+1474,Malta,Francés,27,21,Hostal,5,0,1
+1475,Canada,Italiano,22,1,Residencia estudiantil,4,0,1
+1476,Australia,Italiano,25,20,Hotel,5,0,1
+1477,Canada,Inglés,40,6,Residencia estudiantil,4,1,1
+1478,Malta,Inglés,41,15,Hostal,5,1,1
+1479,Malta,Italiano,40,14,Hotel,4,0,1
+1480,Australia,Inglés,25,20,Hotel,5,0,1
+1481,Canada,Alemán,42,15,Residencia estudiantil,4,0,1
+1482,Malta,Alemán,28,14,Residencia estudiantil,2,0,0
+1483,Estados Unidos,Italiano,34,21,Familia anfitriona,4,0,1
+1484,Reino Unido,Inglés,26,24,Hostal,2,1,0
+1485,Reino Unido,Francés,28,5,Familia anfitriona,4,0,1
+1486,Reino Unido,Alemán,36,6,Hotel,4,1,1
+1487,Canada,Italiano,23,17,Residencia estudiantil,4,0,1
+1488,Australia,Inglés,23,11,Hotel,1,2,0
+1489,Malta,Italiano,19,16,Hotel,3,3,0
+1490,Estados Unidos,Francés,30,12,Apartamento compartido,4,0,1
+1491,Estados Unidos,Alemán,43,15,Apartamento compartido,5,0,1
+1492,Canada,Italiano,26,23,Hotel,4,0,1
+1493,Reino Unido,Italiano,26,4,Residencia estudiantil,4,0,1
+1494,Canada,Italiano,16,18,Hotel,4,0,1
+1495,Australia,Francés,32,21,Apartamento compartido,4,1,1
+1496,Australia,Italiano,30,3,Residencia estudiantil,3,2,0
+1497,Malta,Francés,35,22,Hotel,4,0,1
+1498,Malta,Francés,21,8,Hostal,3,5,0
+1499,Australia,Francés,39,23,Hostal,5,0,1
+1500,Australia,Alemán,37,3,Hotel,2,3,0
